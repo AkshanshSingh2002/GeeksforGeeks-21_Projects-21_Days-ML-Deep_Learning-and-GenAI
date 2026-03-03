@@ -1,6 +1,3 @@
-
-# README.md Content
-
 ## Day 2: Netflix Content Strategy Analysis
 
 ### Project Overview
@@ -39,8 +36,3 @@ This project performs an in-depth exploratory data analysis (EDA) of Netflix's c
 - `L2_Assignment.ipynb` - Assignment solutions with visualizations
 
 ---
-
-### Parent Folder Summary
-**GeeksforGeeks 21 Projects - 21 Days ML, Deep Learning & GenAI**
-
-A comprehensive learning series covering machine learning, deep learning, and generative AI fundamentals through hands-on projects completed over 21 days.

@@ -90,7 +90,7 @@ Complete EDA project analyzing Titanic passenger survival. Covers data cleaning,
 
 
 ### Project 02 – Cracking the Code: Netflix Content Strategy
-A short description of the analysis process, tools used, and what insights were found.
+This project conducts a comprehensive exploratory data analysis of Netflix's content library, revealing that 70% of content is movies with accelerated growth from 2016-2019, while the US leads in production followed by India and the UK. The analysis uncovers that TV-MA and TV-14 ratings dominate the platform, reflecting a mature audience focus, and that most TV shows are single-season productions. Advanced techniques including data cleaning, multi-value column handling, time-series analysis, and feature engineering are employed to extract insights on content themes, director rankings, and temporal trends.
 
 
 ## 📫 Contact
