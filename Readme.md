@@ -19,7 +19,7 @@ Welcome to the **21 Projects in 21 Days** challenge! This repository documents a
 |-----|---------|-----------|
 | 01 | Data Storytelling: Analysing Survival on the Titanic | EDA, Feature Engineering, Classification |
 | 02 | Cracking the Code: An Inside Look at Netflix's Content Strategy | Data Analysis, Content Strategy, Visualization |
-
+| 03 | House Price Prediction (Regression) | Model Training, Evaluation, Linear Regression, xgboost |
 ---
 
 ## ⚙️ Tech Stack
@@ -92,6 +92,8 @@ Complete EDA project analyzing Titanic passenger survival. Covers data cleaning,
 ### Project 02 – Cracking the Code: Netflix Content Strategy
 This project conducts a comprehensive exploratory data analysis of Netflix's content library, revealing that 70% of content is movies with accelerated growth from 2016-2019, while the US leads in production followed by India and the UK. The analysis uncovers that TV-MA and TV-14 ratings dominate the platform, reflecting a mature audience focus, and that most TV shows are single-season productions. Advanced techniques including data cleaning, multi-value column handling, time-series analysis, and feature engineering are employed to extract insights on content themes, director rankings, and temporal trends.
 
+### Project 03 – House Price Prediction (Regression)
+An end-to-end machine learning project that builds and compares regression models to predict house sale prices based on various property features. This project demonstrates the complete ML workflow from exploratory data analysis (EDA) to advanced preprocessing, feature engineering, model training, and evaluation.
 
 ## 📫 Contact
 
