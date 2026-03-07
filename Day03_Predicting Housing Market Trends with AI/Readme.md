@@ -16,6 +16,7 @@ To develop a robust regression model that accurately predicts the sale price of 
 - **Target Variable:** `SalePrice` - The property's sale price in dollars
 
 ### Key Features Include:
+
 - **Quality & Condition:** OverallQual, OverallCond, Exterior1st, Exterior2nd
 - **Area Features:** LotArea, GrLivArea (Above grade living area), TotalBsmtSF
 - **Building Features:** BldgType, HouseStyle, RoofStyle, Foundation
@@ -47,17 +48,20 @@ To develop a robust regression model that accurately predicts the sale price of 
 ## Project Workflow 🔄
 
 ### Step 1: Setup & Data Loading ✅
+
 - Import necessary libraries (pandas, scikit-learn, XGBoost)
 - Load training and test datasets
 - Display basic dataset statistics
 
 ### Step 2: Exploratory Data Analysis (EDA) 📈
+
 - Analyze SalePrice distribution
 - Detect positive skewness
 - Identify top correlated features
 - Visualization with seaborn and matplotlib
 
 ### Step 3: Data Preprocessing ⚙️
+
 - **Handle Missing Values:**
   - Numerical features: Fill with 0 (logical for area/count features)
   - LotFrontage: Impute with neighborhood median
@@ -72,17 +76,21 @@ To develop a robust regression model that accurately predicts the sale price of 
   - One-hot encoding for all remaining categorical features
 
 ### Step 4: Feature Transformation 🔄
+
 - Apply log transformation to target variable: `log(SalePrice)`
 - Standardize features using StandardScaler
 - Reduce skewness from +1.88 to near 0
 
 ### Step 5: Model Development & Training 🤖
+
 **Model 1: Linear Regression (Baseline)**
+
 - Simple, interpretable model
 - Assumes linear relationships
 - Serves as performance baseline
 
 **Model 2: XGBoost (Advanced)**
+
 - Gradient boosting algorithm
 - Parameters:
   - n_estimators: 1000
@@ -102,6 +110,7 @@ To develop a robust regression model that accurately predicts the sale price of 
 *XGBoost significantly outperforms Linear Regression, capturing non-linear relationships in the data.*
 
 ### Step 7: Predictions & Submission 🎯
+
 - Generate predictions on test set using best model
 - Reverse log transformation to original price scale
 - Create submission.csv with Id and SalePrice columns
@@ -111,6 +120,7 @@ To develop a robust regression model that accurately predicts the sale price of 
 ## Results & Insights 💡
 
 ### Key Findings:
+
 1. **Most Influential Features:**
    - OverallQual (Overall Quality)
    - GrLivArea (Above ground living area)
@@ -131,17 +141,20 @@ To develop a robust regression model that accurately predicts the sale price of 
 ## How to Use 🚀
 
 ### Prerequisites:
+
 ```bash
 pip install pandas numpy scikit-learn xgboost matplotlib seaborn scipy
 ```
 
 ### Running the Notebook:
+
 1. Download the notebook: `3_Predicting_Housing_Market_Trends_with_AI.ipynb`
 2. Set up Kaggle API (if using automatic dataset download)
 3. Run cells sequentially or the entire notebook
 4. View outputs and generated `submission.csv`
 
 ### Kaggle API Setup (Optional):
+
 1. Visit [https://www.kaggle.com/account](https://www.kaggle.com/account)
 2. Click 'Create New Token' in API section
 3. Upload `kaggle.json` when prompted in the notebook
@@ -190,6 +203,7 @@ pip install pandas numpy scikit-learn xgboost matplotlib seaborn scipy
 ## Learning Outcomes 🎓
 
 By completing this project, you will understand:
+
 - ✅ Complete regression pipeline from raw data to predictions
 - ✅ Professional data preprocessing and cleaning strategies
 - ✅ Feature engineering techniques for structured data
