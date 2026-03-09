@@ -95,6 +95,9 @@ This project conducts a comprehensive exploratory data analysis of Netflix's con
 ### Project 03 – House Price Prediction (Regression)
 An end-to-end machine learning project that builds and compares regression models to predict house sale prices based on various property features. This project demonstrates the complete ML workflow from exploratory data analysis (EDA) to advanced preprocessing, feature engineering, model training, and evaluation.
 
+### Project 04 – Heart Disease Prediction (Classification)
+Develop an accurate predictive model to classify whether a patient has heart disease using medical features like age, cholesterol, chest pain type, and maximum heart rate.
+
 ## 📫 Contact
 
 - **GitHub:** [AkshanshSingh2002](https://github.com/AkshanshSingh2002)
