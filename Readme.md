@@ -22,7 +22,7 @@ Welcome to the **21 Projects in 21 Days** challenge! This repository documents a
 | 03 | House Price Prediction (Regression) | Model Training, Evaluation, Linear Regression, xgboost |
 | 04 | AI in Healthcare: Building a Life-Saving Heart Disease Predictor | Classification, Model Evaluation, Medical Data Analysis |
 | 05 | Smart Segmentation: Unlocking Customer Personas with AI | Clustering, Unsupervised Learning, Customer Segmentation |
-| 06 | Predicting Future Store Sales with AI | Time Series Forecasting, Regression, Sales Prediction |
+| 06 | Smart Segmentation: Unlocking Customer Personas with AI | Time Series Forecasting, ARIMA, SARIMA |
 | 07 | Preventing Customer Churn with Feature Transformation | Feature Engineering, Classification, Churn Prediction |
 ---
 
@@ -104,6 +104,10 @@ Develop an accurate predictive model to classify whether a patient has heart dis
 
 ### Project 05 – Smart Segmentation - Unlocking Customer Personas with AI
 This project focuses on customer segmentation using unsupervised machine learning techniques, specifically clustering algorithms like K-Means and Hierarchical Clustering. The goal is to identify distinct groups of customers based on their demographic and behavioral data to enable targeted marketing strategies.
+
+### Project 06 - Time Series Forecasting
+ARIMA/SARIMA models for predicting airline passenger trends, focusing on stationarity (p-value < 0.05) and seasonality.
+
 ## 📫 Contact
 
 - **GitHub:** [AkshanshSingh2002](https://github.com/AkshanshSingh2002)
