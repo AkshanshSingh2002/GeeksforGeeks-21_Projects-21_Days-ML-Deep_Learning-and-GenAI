@@ -2,3 +2,6 @@ env/
 __pycache__
 .vscode/
 Day03_Predicting Housing Market Trends with AI/data/
+Day08_Vision AI Fundamentals-Building a Digit Recognizer from Scratch/data/
+Day08_Vision AI Fundamentals-Building a Digit Recognizer from Scratch/ann_model.h5
+Day08_Vision AI Fundamentals-Building a Digit Recognizer from Scratch/cnn_model.h5
