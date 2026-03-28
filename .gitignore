@@ -2,6 +2,7 @@ env/
 __pycache__
 .vscode/
 *.keras
+*.pt
 
 Day03_Predicting Housing Market Trends with AI/data/
 
