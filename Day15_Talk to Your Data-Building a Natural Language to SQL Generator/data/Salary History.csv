@@ -1,0 +1,1001 @@
+employee_id,job_title,department,start_date,end_date,salary,bonus,benefits,salary_type,currency
+63,Desktop Support Technician,426,1/23/2012,4/30/2012,159404.6,48014.51,retirement plan,hourly,CNY
+933,Programmer Analyst III,953,7/13/2003,10/12/2016,63786.47,37710.78,paid time off,salary,MYR
+777,Associate Professor,196,4/11/2020,4/16/2001,80116.17,32613.22,retirement plan,hourly,CNY
+917,Automation Specialist IV,663,11/23/2012,7/30/2006,189759.66,8865.5,health insurance,salary,CNY
+126,Staff Scientist,24,3/4/2004,2/3/2003,23217.72,17304.72,retirement plan,hourly,IDR
+995,Structural Engineer,667,3/12/2000,11/6/2006,53186.94,44756.48,health insurance,salary,EUR
+466,Statistician IV,921,5/6/2021,11/26/2008,119067.4,48954.73,paid time off,salary,CNY
+18,Technical Writer,961,3/1/2000,10/4/2000,66692.84,12873.76,health insurance,salary,CDF
+954,Occupational Therapist,779,5/12/2016,3/17/2018,187223.71,36159.53,paid time off,hourly,TZS
+400,Software Test Engineer IV,399,6/5/2005,11/25/2009,73213.25,42076.84,paid time off,hourly,MWK
+496,Assistant Media Planner,556,6/6/2021,6/14/2012,161849.12,41660.39,retirement plan,hourly,IDR
+829,Health Coach IV,887,12/7/2006,6/4/2001,39752.72,37232.91,health insurance,hourly,CAD
+981,Physical Therapy Assistant,445,5/2/2009,9/19/2012,108290.65,41534.35,health insurance,salary,EUR
+313,Staff Accountant III,832,3/21/2003,2/20/2006,174367.69,53.46,health insurance,salary,EUR
+941,Nurse,95,11/18/2012,11/19/2013,133953.27,6558.79,retirement plan,salary,EUR
+789,Web Designer III,711,8/6/2006,8/11/2012,53439.49,21434.57,retirement plan,salary,CNY
+896,VP Accounting,756,5/3/2007,2/9/2000,182117.69,40532.7,paid time off,hourly,EUR
+169,Administrative Officer,883,6/7/2015,6/6/2019,181492.31,32646.05,retirement plan,salary,RUB
+911,VP Sales,417,2/24/2000,11/24/2013,55097.26,42889.59,health insurance,salary,MUR
+228,Junior Executive,548,6/1/2020,9/18/2020,129218.88,8654.81,health insurance,salary,CNY
+737,Software Test Engineer II,765,8/6/2019,4/23/2015,148688.51,29734.27,paid time off,salary,UZS
+940,Product Engineer,406,11/13/2003,1/21/2014,24874.26,4598.76,retirement plan,hourly,IDR
+873,Junior Executive,554,9/3/2000,5/12/2005,90440.27,6670.9,paid time off,hourly,IDR
+641,Geological Engineer,778,6/17/2011,8/26/2017,157328.4,35048.91,paid time off,salary,JPY
+971,Teacher,870,9/20/2015,10/15/2020,35061.85,42590.5,retirement plan,salary,MXN
+143,Occupational Therapist,620,12/13/2007,6/21/2001,41877.81,35228.17,health insurance,hourly,USD
+805,Biostatistician IV,908,5/1/2011,1/20/2021,195285.21,42919.69,health insurance,salary,EUR
+998,Research Assistant IV,995,3/20/2015,7/30/2015,88353.81,35646.41,paid time off,salary,BRL
+432,Safety Technician IV,397,10/7/2016,1/2/2016,141021.75,16526.03,retirement plan,salary,PHP
+323,GIS Technical Architect,329,12/17/2017,2/11/2009,125542.13,1062.55,paid time off,hourly,COP
+237,Geologist I,902,8/7/2015,6/23/2016,32045.43,13596.92,paid time off,hourly,EUR
+508,Safety Technician I,400,6/22/2015,5/1/2006,23933.53,18140.39,paid time off,hourly,IDR
+964,Chemical Engineer,431,12/19/2015,4/12/2011,68937.37,48131.18,paid time off,salary,JPY
+492,Web Developer II,368,5/13/2016,1/18/2017,92320.11,34280.29,retirement plan,salary,IRR
+46,Data Coordinator,25,12/19/2021,9/12/2009,172349.17,15773.7,paid time off,salary,CNY
+257,Accounting Assistant III,632,12/3/2000,5/20/2022,54490.79,41687.48,retirement plan,salary,CRC
+809,Office Assistant IV,646,3/27/2009,2/14/2022,181198.31,41180.76,health insurance,hourly,YER
+479,Health Coach II,164,9/1/2014,11/29/2009,125964.22,40027.67,paid time off,salary,CNY
+31,Quality Engineer,397,8/31/2011,10/29/2011,143453.13,20074.47,retirement plan,hourly,ALL
+959,Staff Scientist,110,7/19/2002,4/17/2008,53188.57,4192.94,retirement plan,hourly,SEK
+422,Information Systems Manager,544,4/19/2000,4/5/2022,48918.8,30624.85,health insurance,salary,IDR
+954,Cost Accountant,618,4/27/2002,11/8/2000,139136.49,3509.38,retirement plan,salary,ALL
+388,Desktop Support Technician,881,2/26/2010,7/17/2014,172315.23,15662.07,paid time off,hourly,IDR
+415,Computer Systems Analyst IV,984,6/20/2018,10/30/2008,63256.92,6933.71,paid time off,hourly,HRK
+566,Quality Engineer,179,9/1/2006,4/29/2018,61351.76,44628.24,health insurance,hourly,CAD
+333,Analyst Programmer,282,10/25/2013,9/28/2014,90499.2,30035.93,retirement plan,hourly,UYU
+572,Dental Hygienist,1,9/3/2011,8/3/2018,177047.24,11530.86,paid time off,salary,THB
+427,Associate Professor,832,2/16/2019,11/20/2014,75249.1,45389.87,health insurance,salary,UAH
+708,Nuclear Power Engineer,818,2/12/2013,7/5/2016,140426.5,23385.45,health insurance,hourly,AZN
+721,VP Sales,167,2/10/2004,10/24/2008,40020.43,37844.5,paid time off,salary,JPY
+82,Research Assistant II,338,6/21/2001,2/7/2019,175911.3,22103.41,retirement plan,salary,IDR
+406,Account Coordinator,515,11/7/2013,11/3/2020,35521.78,20970.25,retirement plan,hourly,CNY
+937,Compensation Analyst,933,10/10/2001,1/8/2001,153054.11,46976.73,paid time off,salary,AOA
+123,Actuary,99,10/22/2000,6/12/2018,52875.22,19760.55,paid time off,salary,RUB
+92,Biostatistician IV,319,4/20/2022,8/17/2009,133212.54,20212.35,health insurance,salary,TND
+612,Developer IV,667,5/29/2012,8/3/2007,183222.3,2448.98,health insurance,salary,USD
+943,Librarian,502,6/5/2020,8/27/2016,84985.35,14821.42,retirement plan,hourly,AUD
+635,Automation Specialist IV,312,1/14/2006,4/8/2004,36101.39,30349.09,paid time off,salary,IRR
+659,GIS Technical Architect,143,10/10/2006,6/6/2014,23003.64,27759.97,paid time off,salary,EUR
+842,Nurse,137,7/27/2011,5/30/2000,99014.65,5343.54,paid time off,salary,ISK
+664,Media Manager II,156,6/20/2004,9/10/2011,93697.94,20691.07,retirement plan,hourly,EUR
+529,Compensation Analyst,914,4/26/2002,11/20/2002,172402.59,5555.96,health insurance,hourly,USD
+734,Administrative Assistant II,11,12/1/2002,2/6/2004,88509.35,42764.42,retirement plan,salary,SEK
+690,Pharmacist,530,3/14/2010,11/5/2006,176690.0,5397.97,paid time off,hourly,AZN
+955,Geological Engineer,103,7/26/2008,9/16/2009,94025.44,31558.17,retirement plan,hourly,CNY
+592,Analog Circuit Design manager,331,7/4/2018,1/16/2020,83514.25,22601.52,health insurance,hourly,ARS
+248,Assistant Media Planner,939,11/4/2013,8/22/2000,195134.95,16102.73,health insurance,salary,COP
+104,Accountant IV,860,11/30/2005,10/22/2005,177443.19,11395.63,paid time off,salary,RUB
+847,Senior Cost Accountant,463,4/16/2010,4/26/2016,131621.57,26309.29,health insurance,hourly,RUB
+682,Design Engineer,982,1/21/2016,12/4/2017,147367.07,28522.55,paid time off,salary,CNY
+457,Technical Writer,647,2/24/2014,7/29/2000,64418.28,4894.09,retirement plan,salary,CAD
+267,Paralegal,757,10/3/2006,3/29/2016,53859.21,8854.7,paid time off,hourly,CNY
+214,Librarian,795,5/1/2000,4/19/2004,93334.26,34156.27,health insurance,salary,AMD
+765,Senior Editor,646,3/26/2018,6/27/2010,109244.44,15101.2,health insurance,hourly,CNY
+243,Analog Circuit Design manager,406,2/22/2019,2/28/2021,42384.23,35426.79,health insurance,hourly,PLN
+164,Senior Editor,810,10/26/2016,7/26/2000,88320.3,16619.58,retirement plan,salary,ALL
+228,Biostatistician III,66,7/5/2022,11/5/2012,42780.22,9000.44,retirement plan,salary,USD
+204,Sales Representative,954,10/18/2001,10/13/2018,132587.21,31652.19,retirement plan,hourly,EUR
+236,Actuary,912,11/25/2015,7/3/2018,177836.62,46670.15,health insurance,hourly,CNY
+350,Research Nurse,941,6/21/2003,1/22/2007,116936.1,14725.32,paid time off,hourly,PHP
+469,Project Manager,782,2/25/2020,10/18/2015,75064.01,47959.54,health insurance,salary,PEN
+530,Junior Executive,192,12/14/2009,11/23/2018,42824.74,48116.35,health insurance,hourly,CNY
+404,Executive Secretary,993,8/6/2002,11/22/2005,75383.59,7499.32,retirement plan,hourly,CNY
+746,Financial Advisor,134,9/3/2001,10/13/2009,161080.59,22745.77,retirement plan,salary,NGN
+506,Accountant IV,719,9/3/2010,3/17/2002,139580.32,30573.54,retirement plan,salary,MNT
+669,Physical Therapy Assistant,80,2/11/2015,3/12/2007,43463.79,25275.35,retirement plan,hourly,MGA
+798,Pharmacist,27,11/15/2001,2/15/2020,187938.56,17540.05,health insurance,hourly,SEK
+147,Account Coordinator,321,4/18/2010,3/22/2016,170740.64,35911.69,retirement plan,hourly,RUB
+335,Web Designer IV,547,3/21/2011,4/20/2014,167272.14,36321.95,paid time off,hourly,CNY
+661,Database Administrator IV,114,5/23/2008,9/14/2000,56686.65,37875.96,health insurance,salary,UAH
+387,Help Desk Operator,987,6/14/2018,6/29/2013,148899.68,25895.18,health insurance,hourly,SEK
+122,Analyst Programmer,913,10/10/2008,5/15/2001,165289.74,11691.89,paid time off,hourly,ZAR
+328,Environmental Specialist,205,2/17/2022,8/9/2013,98313.94,2756.42,paid time off,hourly,PEN
+193,Structural Analysis Engineer,212,4/11/2021,2/16/2017,51218.75,21935.38,paid time off,salary,IDR
+155,Graphic Designer,591,3/23/2012,1/3/2000,164654.07,31051.94,paid time off,salary,CNY
+550,Accounting Assistant II,118,7/20/2006,5/2/2006,116257.24,36838.74,retirement plan,salary,CNY
+544,Analyst Programmer,643,6/11/2010,2/6/2018,145167.12,2075.41,paid time off,hourly,PEN
+779,Accountant III,321,11/3/2006,9/12/2015,98832.49,21142.44,health insurance,hourly,ARS
+698,Analog Circuit Design manager,916,7/16/2008,7/11/2016,55578.45,20951.57,retirement plan,hourly,IDR
+816,Programmer II,956,8/16/2010,8/29/2015,106563.43,24719.45,retirement plan,hourly,JPY
+205,Junior Executive,126,12/28/2009,12/26/2019,136990.75,17758.84,health insurance,salary,RUB
+181,Analyst Programmer,699,3/21/2002,10/14/2011,136883.24,28033.34,paid time off,salary,IDR
+273,Community Outreach Specialist,471,7/17/2014,3/30/2005,182532.56,17557.19,retirement plan,hourly,CNY
+241,Director of Sales,785,2/24/2006,6/2/2008,34821.15,31896.92,retirement plan,salary,PEN
+668,Pharmacist,491,8/4/2012,9/16/2003,105122.51,46339.98,paid time off,salary,IDR
+383,Health Coach II,650,4/14/2009,8/9/2013,134760.98,31803.26,paid time off,salary,IDR
+670,Analog Circuit Design manager,933,3/5/2018,7/16/2021,163579.41,12116.48,retirement plan,salary,RUB
+712,Business Systems Development Analyst,414,8/3/2011,12/22/2021,146387.54,2558.01,paid time off,hourly,EUR
+132,Food Chemist,444,11/4/2008,12/30/2011,93911.43,33811.39,health insurance,salary,XAF
+836,Software Consultant,415,12/30/2016,12/7/2017,78349.54,48849.02,paid time off,hourly,SEK
+994,Nuclear Power Engineer,383,10/22/2013,7/8/2018,140745.2,41161.16,paid time off,salary,PHP
+511,Accountant I,495,8/25/2015,6/9/2000,62346.69,42402.31,paid time off,salary,PHP
+778,Registered Nurse,924,1/19/2011,5/14/2001,40958.51,3681.2,paid time off,salary,JPY
+145,Librarian,516,8/21/2011,11/24/2008,192661.39,10848.25,paid time off,salary,CLP
+143,Speech Pathologist,931,3/6/2021,11/29/2012,182227.11,49319.74,retirement plan,hourly,CNY
+89,Dental Hygienist,824,4/11/2006,7/10/2001,28575.54,40247.98,paid time off,salary,BRL
+182,Assistant Professor,405,7/28/2001,4/21/2001,108028.55,19276.61,retirement plan,salary,USD
+579,VP Quality Control,445,4/6/2022,5/9/2022,30410.98,1204.47,retirement plan,hourly,SEK
+131,Environmental Tech,291,6/12/2002,2/12/2011,70260.67,41828.01,health insurance,hourly,UGX
+97,Pharmacist,227,2/27/2018,10/22/2016,170476.98,24955.49,paid time off,salary,KHR
+44,Staff Scientist,510,9/29/2015,3/18/2012,121048.82,19312.35,health insurance,hourly,RUB
+375,Biostatistician I,140,11/27/2014,3/28/2011,113879.31,5312.0,paid time off,hourly,KRW
+476,Environmental Specialist,340,9/29/2008,12/22/2015,24134.61,15032.29,health insurance,hourly,EUR
+318,Operator,712,7/29/2009,6/6/2019,129684.09,37449.95,health insurance,salary,XAF
+810,GIS Technical Architect,214,1/25/2011,4/3/2012,71294.72,34302.92,paid time off,hourly,CNY
+7,Web Designer II,754,10/13/2012,3/5/2015,161466.76,46857.18,health insurance,salary,RUB
+206,Senior Sales Associate,677,2/21/2012,3/5/2008,101622.67,13696.62,health insurance,salary,IDR
+262,VP Product Management,506,3/22/2009,9/17/2012,184974.49,14071.5,retirement plan,hourly,PHP
+572,Biostatistician III,127,7/1/2000,5/10/2018,67691.29,17835.17,retirement plan,hourly,EUR
+650,Environmental Tech,118,8/18/2007,1/3/2022,60850.85,2509.48,paid time off,hourly,CNY
+520,Software Consultant,916,12/11/2000,6/26/2006,156764.74,23124.31,retirement plan,salary,AFN
+476,Internal Auditor,115,3/8/2005,11/4/2013,168723.42,36258.24,paid time off,salary,PEN
+956,Junior Executive,729,9/11/2014,5/19/2021,77541.47,1407.41,retirement plan,hourly,CNY
+193,Assistant Manager,544,12/8/2003,10/1/2014,120961.56,35724.0,paid time off,salary,NGN
+47,Account Executive,207,6/16/2005,4/4/2012,65905.91,34432.04,paid time off,hourly,PHP
+20,Occupational Therapist,63,4/29/2000,3/2/2020,106231.46,30699.52,retirement plan,salary,CNY
+706,GIS Technical Architect,799,6/3/2008,7/31/2003,41296.66,13958.72,paid time off,salary,KPW
+348,Engineer III,203,7/3/2013,8/22/2020,135180.89,36189.72,paid time off,hourly,EUR
+897,Technical Writer,340,12/25/2007,2/19/2021,62221.72,12390.4,paid time off,hourly,KRW
+471,Research Nurse,845,7/5/2020,4/16/2005,64545.55,43939.85,health insurance,salary,TWD
+12,Physical Therapy Assistant,22,8/14/2012,9/13/2006,198019.86,3520.27,retirement plan,salary,TND
+75,Recruiter,36,9/28/2018,8/10/2016,102720.96,39191.4,health insurance,hourly,CNY
+490,Payment Adjustment Coordinator,570,8/24/2018,7/23/2017,78790.02,48089.65,health insurance,salary,CZK
+707,Database Administrator I,390,9/12/2002,10/25/2021,83257.47,10362.57,retirement plan,hourly,CNY
+461,Sales Representative,231,8/14/2020,8/25/2008,99227.73,3812.04,retirement plan,hourly,RUB
+363,Community Outreach Specialist,692,2/4/2016,5/23/2008,181775.9,45527.49,retirement plan,hourly,CNY
+118,Recruiting Manager,937,10/31/2010,6/1/2018,145258.06,46775.07,paid time off,salary,JPY
+769,Sales Associate,850,4/23/2022,3/7/2017,159855.65,39061.61,paid time off,salary,CNY
+26,Social Worker,867,2/13/2014,2/18/2016,109563.78,46979.0,health insurance,salary,PLN
+822,Senior Cost Accountant,315,12/11/2021,4/12/2017,89790.71,4030.99,paid time off,hourly,PLN
+969,Design Engineer,856,12/2/2022,8/28/2019,150326.72,21681.05,paid time off,salary,IDR
+884,Sales Representative,802,10/10/2013,12/3/2012,188011.57,40086.76,health insurance,hourly,ETB
+996,Quality Engineer,345,1/14/2003,9/19/2020,144473.89,39885.49,health insurance,hourly,CNY
+808,Dental Hygienist,177,3/22/2002,4/13/2020,198460.95,20464.69,health insurance,salary,CNY
+486,Assistant Media Planner,266,5/7/2021,9/15/2007,23767.86,49863.92,paid time off,hourly,RUB
+144,Community Outreach Specialist,944,8/13/2005,6/5/2003,78416.47,1694.89,health insurance,salary,EUR
+14,Research Assistant IV,850,1/28/2018,11/27/2016,119536.75,14472.44,health insurance,hourly,PHP
+359,Data Coordinator,11,4/4/2013,2/25/2022,158634.19,39459.15,paid time off,hourly,ZAR
+628,Operator,132,12/24/2005,3/16/2005,89751.31,21795.66,health insurance,hourly,IDR
+749,Recruiting Manager,675,1/23/2008,3/11/2017,194218.22,19011.23,paid time off,hourly,RUB
+429,Senior Sales Associate,933,11/18/2016,5/19/2003,156903.69,9779.57,retirement plan,salary,CNY
+31,Editor,698,12/31/2003,4/9/2015,81176.74,49203.12,health insurance,hourly,EUR
+661,Associate Professor,781,3/19/2011,10/31/2011,32135.15,570.62,retirement plan,salary,USD
+907,Web Designer IV,547,10/30/2022,2/26/2004,82146.96,29207.31,retirement plan,salary,IDR
+421,Product Engineer,984,2/25/2010,6/30/2001,74987.53,25159.02,health insurance,salary,USD
+532,Senior Developer,483,2/21/2002,5/9/2007,27404.36,42122.3,paid time off,hourly,EUR
+812,Operator,782,7/28/2002,6/9/2021,146360.55,21456.65,paid time off,salary,ZAR
+710,Clinical Specialist,344,9/10/2012,7/4/2020,156402.91,31354.76,paid time off,hourly,CNY
+890,Human Resources Assistant II,338,9/14/2021,5/29/2000,91680.56,20580.13,health insurance,hourly,IDR
+757,Teacher,202,11/27/2007,4/29/2018,73806.39,119.92,retirement plan,hourly,CNY
+517,Editor,370,5/6/2019,8/30/2004,54467.4,44048.42,retirement plan,salary,CAD
+424,Marketing Assistant,806,1/17/2001,9/10/2006,87472.74,20335.63,paid time off,salary,IDR
+104,Assistant Media Planner,904,2/19/2011,5/6/2015,32328.51,20699.24,retirement plan,salary,LKR
+809,Account Representative IV,309,1/20/2015,7/5/2014,123190.92,48686.03,paid time off,hourly,PHP
+831,Recruiter,545,2/26/2004,6/7/2013,101433.96,15824.19,paid time off,hourly,CNY
+848,Senior Editor,712,1/24/2013,11/10/2013,36920.89,22283.44,paid time off,hourly,COP
+207,Structural Analysis Engineer,272,3/15/2006,6/7/2010,62939.29,31479.5,retirement plan,salary,IDR
+949,Director of Sales,71,2/11/2001,2/7/2004,45363.63,3124.35,retirement plan,salary,CNY
+167,GIS Technical Architect,669,7/24/2010,6/12/2004,126945.92,47056.45,health insurance,hourly,CNY
+746,Staff Scientist,933,3/24/2001,7/18/2007,129928.78,16705.78,health insurance,salary,PLN
+683,GIS Technical Architect,545,4/30/2000,12/31/2001,138155.15,7592.4,retirement plan,salary,AUD
+503,Computer Systems Analyst III,663,8/3/2009,12/13/2020,185707.39,3620.72,health insurance,salary,SEK
+586,Senior Cost Accountant,46,6/22/2020,8/11/2013,148513.22,42492.63,health insurance,hourly,ARS
+5,Help Desk Operator,977,4/11/2003,4/14/2006,25814.43,49311.77,paid time off,hourly,EUR
+805,Food Chemist,222,8/12/2021,1/16/2022,163810.5,6524.87,paid time off,hourly,IDR
+117,Assistant Media Planner,966,4/3/2014,3/21/2015,192774.7,25750.92,health insurance,hourly,COP
+387,Financial Advisor,862,8/24/2019,12/3/2005,167681.55,19483.57,health insurance,hourly,ZAR
+148,Account Executive,193,2/23/2004,4/14/2013,160618.09,43904.91,health insurance,hourly,PHP
+623,Registered Nurse,684,8/25/2022,2/21/2004,155163.13,49786.26,retirement plan,salary,CNY
+315,Financial Analyst,317,4/10/2007,3/28/2019,116427.07,1405.75,paid time off,hourly,EUR
+11,Senior Developer,631,1/27/2021,3/7/2014,134009.97,49076.65,retirement plan,salary,PHP
+49,Desktop Support Technician,918,7/16/2015,3/10/2007,78224.03,16625.41,retirement plan,salary,CNY
+13,Computer Systems Analyst IV,433,6/2/2015,8/19/2019,68376.36,39919.12,health insurance,salary,ARS
+366,Clinical Specialist,954,5/4/2022,7/9/2021,122987.41,43245.33,paid time off,hourly,PEN
+708,Software Consultant,753,11/2/2013,11/15/2020,150157.25,43695.86,health insurance,hourly,EUR
+414,Registered Nurse,697,4/5/2009,4/21/2000,74410.73,8867.03,health insurance,salary,PEN
+159,Community Outreach Specialist,505,3/10/2018,12/26/2022,169123.27,45648.51,paid time off,hourly,EUR
+120,Programmer Analyst II,480,12/6/2004,10/29/2014,153505.04,15088.65,health insurance,hourly,USD
+516,Technical Writer,454,2/15/2012,6/18/2009,138413.44,36622.22,paid time off,hourly,PHP
+14,Social Worker,485,2/9/2003,9/21/2008,136412.09,30506.69,health insurance,hourly,CRC
+393,Engineer I,973,7/26/2003,8/2/2003,198016.06,34986.76,paid time off,salary,PHP
+405,Account Representative III,42,7/3/2008,2/24/2020,42721.46,1209.58,paid time off,salary,CNY
+552,Desktop Support Technician,872,11/7/2000,5/31/2000,169290.32,49366.98,health insurance,hourly,BRL
+558,Senior Quality Engineer,527,12/3/2008,5/7/2006,182394.57,30087.66,retirement plan,salary,PHP
+142,Chemical Engineer,543,2/7/2012,5/23/2010,78969.24,24164.13,paid time off,salary,MKD
+439,Quality Engineer,109,8/19/2012,7/19/2010,23598.1,1789.84,retirement plan,hourly,KES
+508,Senior Financial Analyst,603,2/12/2004,11/11/2011,26707.69,19047.86,health insurance,hourly,HRK
+951,Human Resources Manager,741,3/7/2010,8/23/2003,126215.48,33044.72,health insurance,hourly,PLN
+596,VP Accounting,599,11/3/2011,8/12/2009,61216.82,35363.27,health insurance,salary,JPY
+290,Senior Financial Analyst,676,7/12/2005,1/16/2020,144165.03,23393.43,retirement plan,hourly,EUR
+332,Business Systems Development Analyst,44,7/14/2003,3/16/2013,109097.74,714.8,paid time off,hourly,IDR
+428,Business Systems Development Analyst,357,7/19/2020,2/10/2011,137330.4,14560.7,paid time off,salary,ZAR
+33,Structural Engineer,563,12/15/2007,11/17/2008,48010.66,33188.0,retirement plan,hourly,IDR
+277,Account Representative III,798,1/22/2007,9/14/2000,161324.26,47491.42,paid time off,hourly,CNY
+660,Geologist II,464,5/13/2002,6/14/2001,123525.14,10552.54,paid time off,hourly,JPY
+950,Account Representative II,100,10/12/2009,3/17/2004,75461.55,38651.18,retirement plan,salary,USD
+721,Programmer Analyst III,549,6/9/2000,8/18/2016,102371.78,10548.03,health insurance,salary,EUR
+771,Accounting Assistant II,754,8/23/2004,8/24/2009,170444.39,40220.0,retirement plan,salary,CNY
+101,Nurse,403,1/23/2009,5/18/2004,41792.56,10550.94,health insurance,hourly,EUR
+639,Executive Secretary,747,5/23/2005,9/3/2021,77131.43,12885.84,health insurance,hourly,ALL
+28,Staff Scientist,104,3/7/2010,1/23/2015,107370.95,3853.14,retirement plan,salary,IDR
+461,Structural Analysis Engineer,544,7/15/2013,7/12/2013,38993.86,37069.34,retirement plan,hourly,BRL
+469,Associate Professor,451,10/6/2016,3/12/2009,105214.71,36437.4,paid time off,salary,PLN
+999,Food Chemist,393,5/27/2011,2/12/2012,37802.45,20161.72,retirement plan,salary,PHP
+245,Account Coordinator,569,2/5/2020,10/7/2019,154123.55,16287.82,paid time off,hourly,EUR
+453,Geologist III,820,10/26/2009,12/6/2009,160665.56,271.43,paid time off,salary,CNY
+415,Research Associate,497,9/7/2019,2/20/2021,56404.29,39387.84,retirement plan,hourly,RUB
+92,Registered Nurse,658,6/26/2012,4/14/2009,34016.95,17018.45,paid time off,hourly,ZWL
+128,Administrative Officer,261,6/13/2000,1/21/2001,57103.25,11297.37,retirement plan,hourly,PLN
+394,Design Engineer,659,6/5/2008,11/1/2022,124143.83,17279.27,retirement plan,hourly,RUB
+57,Mechanical Systems Engineer,374,11/25/2022,6/13/2006,38711.88,49674.67,health insurance,salary,EUR
+882,Environmental Specialist,337,12/29/2010,4/1/2003,65543.84,36883.1,paid time off,hourly,CNY
+474,Product Engineer,631,5/11/2017,8/13/2007,34080.91,32705.41,retirement plan,salary,IDR
+743,Actuary,247,3/15/2008,9/25/2002,186320.77,25638.65,health insurance,salary,USD
+803,Nurse Practicioner,887,2/1/2014,8/26/2006,146684.51,12516.67,paid time off,hourly,BIF
+860,Project Manager,115,2/2/2019,2/6/2004,169773.06,17083.02,health insurance,salary,PAB
+687,Staff Accountant I,148,12/7/2001,6/20/2008,58278.41,32583.2,paid time off,hourly,CNY
+947,Electrical Engineer,735,3/29/2013,11/22/2008,65401.32,21266.11,retirement plan,hourly,EUR
+896,Paralegal,160,11/14/2011,2/13/2000,185036.83,43473.29,health insurance,hourly,EUR
+917,Statistician IV,907,3/25/2015,10/5/2011,64680.0,37672.47,health insurance,salary,LKR
+108,Quality Control Specialist,758,12/1/2006,3/20/2011,46179.88,40544.55,retirement plan,salary,PEN
+712,Occupational Therapist,69,9/28/2000,10/3/2007,28410.9,44962.12,health insurance,hourly,CNY
+618,Information Systems Manager,231,7/16/2017,8/30/2004,159756.54,29266.28,retirement plan,hourly,CNY
+571,Web Developer III,76,7/11/2000,7/30/2002,42771.74,17878.17,retirement plan,salary,IDR
+680,Data Coordinator,704,1/7/2007,4/29/2020,130479.85,26236.9,paid time off,hourly,RUB
+901,Dental Hygienist,773,2/24/2015,3/17/2019,172844.98,40409.02,paid time off,hourly,PEN
+896,Editor,539,10/4/2006,4/17/2016,59998.79,4022.3,paid time off,salary,EUR
+578,Physical Therapy Assistant,811,12/6/2004,10/4/2021,57424.77,5514.78,retirement plan,hourly,VUV
+787,Civil Engineer,591,9/30/2019,12/4/2018,73444.47,4713.18,health insurance,hourly,BRL
+508,Associate Professor,315,3/13/2012,11/12/2000,135514.79,34084.7,paid time off,hourly,EUR
+506,Office Assistant I,963,10/21/2007,11/7/2021,133743.0,36194.51,retirement plan,salary,PLN
+128,Health Coach I,65,11/20/2016,4/9/2015,146773.53,25761.26,health insurance,hourly,MKD
+727,Account Representative I,562,2/9/2016,11/8/2010,54926.82,2828.83,paid time off,salary,IDR
+791,Nurse,835,7/18/2011,11/4/2012,61350.12,37504.26,retirement plan,salary,BRL
+865,Product Engineer,711,2/16/2004,4/22/2000,89013.93,20461.15,retirement plan,hourly,RUB
+207,Paralegal,909,9/2/2002,12/25/2022,157703.42,45736.09,paid time off,salary,IDR
+127,Database Administrator III,361,12/8/2018,12/27/2006,36364.8,13789.52,paid time off,hourly,EUR
+411,Electrical Engineer,381,4/11/2004,10/31/2006,90780.82,34599.63,paid time off,hourly,KPW
+46,Financial Analyst,889,12/8/2005,11/1/2022,34695.52,5461.73,health insurance,hourly,EUR
+495,Librarian,626,5/7/2001,6/16/2016,108200.04,8177.38,health insurance,hourly,PEN
+671,Recruiting Manager,350,4/1/2013,9/2/2021,40828.55,7973.82,retirement plan,hourly,VND
+897,Pharmacist,720,11/29/2005,3/22/2001,158720.58,5541.46,retirement plan,hourly,KPW
+871,Quality Engineer,816,5/29/2008,1/22/2003,82077.93,8745.15,paid time off,salary,CNY
+648,Office Assistant IV,978,12/9/2014,1/25/2022,51700.81,17819.26,health insurance,hourly,CNY
+159,Internal Auditor,271,3/29/2004,10/31/2017,131836.48,38197.13,paid time off,hourly,PHP
+313,General Manager,600,1/17/2007,6/28/2011,190223.87,39462.71,retirement plan,salary,MAD
+863,Project Manager,485,3/23/2002,2/7/2000,108886.16,19679.97,health insurance,hourly,MWK
+864,Assistant Professor,286,12/2/2003,1/30/2001,142382.45,24020.61,paid time off,hourly,BRL
+592,Financial Analyst,209,10/7/2003,3/5/2022,43932.73,48832.8,health insurance,salary,EUR
+782,General Manager,707,9/14/2011,8/22/2013,132190.41,19497.62,retirement plan,salary,PLN
+227,Senior Editor,752,4/2/2009,11/22/2017,161576.73,12027.84,paid time off,salary,XOF
+718,Sales Associate,816,1/3/2019,10/20/2015,192937.54,22524.98,paid time off,hourly,JPY
+652,Database Administrator III,222,1/9/2007,10/29/2018,172801.95,47341.69,paid time off,salary,GNF
+560,Financial Advisor,584,4/2/2020,4/9/2011,172143.12,39926.7,paid time off,salary,PHP
+913,Occupational Therapist,516,11/14/2012,8/5/2001,172974.63,10956.5,retirement plan,salary,CNY
+522,VP Quality Control,880,10/24/2019,2/7/2021,141123.45,26924.19,health insurance,salary,PGK
+115,Systems Administrator II,592,2/16/2003,6/9/2013,164714.56,25135.77,retirement plan,salary,IDR
+183,Staff Accountant I,276,2/5/2020,7/24/2017,49162.25,11805.51,paid time off,salary,EUR
+969,Research Assistant IV,109,8/12/2010,2/12/2011,106076.92,27946.37,paid time off,salary,CNY
+77,Web Developer I,801,5/5/2006,9/30/2016,55138.4,33250.92,health insurance,hourly,LKR
+799,Recruiter,941,4/6/2018,11/20/2007,128794.13,48253.06,retirement plan,hourly,UAH
+454,Financial Advisor,615,1/3/2006,5/29/2016,61086.05,36811.89,health insurance,salary,UAH
+45,VP Accounting,558,6/24/2014,3/4/2015,180321.74,38184.25,paid time off,salary,USD
+574,Financial Analyst,650,3/17/2018,5/18/2001,73225.84,46501.99,health insurance,hourly,PKR
+606,Pharmacist,198,10/21/2009,9/28/2009,52617.35,31831.63,retirement plan,salary,EUR
+199,Editor,526,12/20/2017,8/15/2007,48917.97,14641.39,health insurance,salary,EUR
+453,Operator,229,4/10/2007,9/10/2022,36939.47,3105.94,retirement plan,salary,CNY
+710,Actuary,235,3/5/2008,2/26/2013,196274.45,14396.98,paid time off,salary,CNY
+453,Mechanical Systems Engineer,223,12/9/2003,1/29/2016,142921.36,28153.66,paid time off,salary,RUB
+738,General Manager,206,10/16/2006,8/6/2008,62548.32,1814.26,retirement plan,hourly,CZK
+490,Programmer III,203,11/17/2015,1/6/2017,154850.79,38785.76,retirement plan,salary,CNY
+840,Paralegal,381,11/15/2017,6/26/2021,196803.4,30404.09,paid time off,hourly,CNY
+282,Quality Engineer,198,12/24/2009,10/29/2002,90229.74,47725.89,paid time off,hourly,IDR
+863,Graphic Designer,557,12/2/2003,12/9/2019,187426.38,23646.78,retirement plan,salary,HNL
+853,Marketing Assistant,770,11/30/2007,3/31/2014,32792.15,22268.02,paid time off,hourly,EUR
+916,Sales Associate,314,12/18/2017,3/13/2006,64169.89,20265.36,paid time off,hourly,RUB
+204,Mechanical Systems Engineer,728,11/23/2011,6/11/2020,158113.96,23090.23,paid time off,salary,SEK
+875,Human Resources Manager,270,7/5/2018,2/15/2007,27907.67,37970.33,retirement plan,salary,EUR
+18,Account Coordinator,721,1/21/2015,6/9/2000,112186.84,43522.57,health insurance,hourly,RUB
+465,Administrative Assistant IV,151,6/3/2008,11/2/2006,76729.17,37900.74,health insurance,salary,EUR
+432,Data Coordinator,599,3/15/2012,12/23/2011,64249.3,20802.9,paid time off,hourly,CNY
+855,Software Engineer I,915,5/20/2004,4/26/2002,137201.28,23569.32,paid time off,salary,MAD
+517,Accountant IV,236,8/30/2022,4/16/2006,81252.0,2520.51,retirement plan,hourly,PHP
+159,Budget/Accounting Analyst III,459,10/25/2003,11/12/2007,142327.83,27406.1,retirement plan,hourly,VND
+963,Programmer I,711,3/13/2011,3/6/2009,110584.45,20229.94,health insurance,salary,PGK
+309,Business Systems Development Analyst,976,10/31/2018,6/12/2011,54162.92,22726.73,health insurance,salary,IDR
+348,Structural Analysis Engineer,798,8/7/2012,5/15/2004,88911.03,43091.09,health insurance,salary,EUR
+709,Paralegal,223,11/2/2002,9/6/2016,105159.77,46945.43,retirement plan,hourly,PLN
+640,Sales Representative,397,9/5/2022,1/22/2018,178537.06,6829.0,health insurance,hourly,TND
+533,Structural Analysis Engineer,330,4/24/2014,5/24/2010,127206.07,28962.36,retirement plan,hourly,UAH
+280,Automation Specialist IV,28,2/15/2005,8/16/2021,83934.16,1104.99,paid time off,hourly,CNY
+755,Payment Adjustment Coordinator,615,5/14/2015,5/21/2017,178578.29,31037.88,retirement plan,hourly,UGX
+410,Assistant Professor,962,3/7/2015,11/3/2013,117899.5,29313.79,health insurance,salary,PHP
+456,Operator,464,9/1/2002,10/15/2000,105438.74,34637.54,health insurance,salary,SEK
+124,Research Nurse,785,5/9/2000,12/27/2011,65369.85,41673.03,retirement plan,salary,TJS
+798,Safety Technician II,862,6/13/2009,9/20/2005,85614.31,5278.26,retirement plan,hourly,TZS
+413,Design Engineer,651,12/21/2014,6/21/2015,189946.99,46931.0,paid time off,salary,IDR
+426,Paralegal,778,1/28/2012,1/29/2003,159171.0,45770.54,retirement plan,hourly,EUR
+485,VP Product Management,75,2/13/2016,2/6/2011,44021.87,30847.45,health insurance,salary,PYG
+295,Help Desk Operator,692,1/5/2000,1/22/2011,191286.46,16906.84,health insurance,salary,EUR
+633,Research Nurse,596,8/20/2011,8/3/2020,148768.16,20552.25,paid time off,salary,BRL
+715,Programmer Analyst II,297,3/25/2017,5/12/2006,129581.03,5946.05,retirement plan,hourly,USD
+142,Cost Accountant,81,4/13/2019,9/11/2013,29067.7,13075.66,health insurance,hourly,EUR
+37,Recruiting Manager,358,3/4/2001,11/25/2012,137929.53,41266.73,paid time off,hourly,EUR
+585,Senior Editor,977,11/17/2014,9/17/2001,173670.66,46662.58,paid time off,hourly,ARS
+89,Graphic Designer,148,11/17/2019,5/7/2016,135866.67,47386.88,retirement plan,hourly,UAH
+559,Human Resources Manager,909,4/27/2021,8/7/2011,125618.78,44659.41,retirement plan,hourly,CNY
+844,Physical Therapy Assistant,24,10/28/2007,4/23/2011,131494.0,33191.64,health insurance,salary,EUR
+960,Sales Associate,981,1/13/2020,10/7/2004,55669.54,27309.29,retirement plan,hourly,CAD
+847,VP Sales,579,12/13/2001,12/2/2021,83265.52,32256.12,retirement plan,salary,HNL
+488,Assistant Media Planner,890,6/19/2001,12/19/2019,103553.29,31973.84,retirement plan,salary,MNT
+669,Accountant I,47,5/17/2009,3/7/2015,25646.58,30786.08,health insurance,salary,EUR
+726,Social Worker,478,6/15/2001,5/12/2018,130931.85,9612.17,health insurance,hourly,CNY
+424,Staff Accountant II,241,4/24/2000,8/3/2022,99385.09,26.77,health insurance,salary,SEK
+805,Design Engineer,45,8/14/2018,2/17/2009,173208.51,25020.77,retirement plan,salary,THB
+168,Professor,4,7/6/2020,2/6/2004,159625.28,29987.23,health insurance,salary,KES
+795,VP Product Management,215,12/8/2005,2/13/2007,137609.54,46463.9,health insurance,hourly,CAD
+414,Research Nurse,165,11/18/2021,2/6/2013,38871.94,39745.32,health insurance,hourly,CNY
+649,Recruiter,196,1/17/2014,12/29/2002,75213.49,16715.29,health insurance,salary,PHP
+715,Sales Representative,498,3/30/2013,1/23/2019,47949.69,23.75,health insurance,salary,CNY
+352,Environmental Tech,10,8/28/2016,10/12/2019,34321.32,49912.41,paid time off,hourly,CZK
+865,Speech Pathologist,112,7/10/2011,5/3/2002,137215.49,35364.44,health insurance,hourly,RUB
+632,Senior Financial Analyst,125,9/21/2012,7/21/2011,192380.24,25580.97,health insurance,salary,RSD
+614,Programmer Analyst IV,557,1/20/2004,2/29/2008,129818.73,837.5,retirement plan,hourly,CNY
+578,Web Designer II,938,12/23/2002,8/17/2022,27330.29,29508.73,paid time off,hourly,EUR
+782,Assistant Professor,839,8/30/2001,5/28/2015,103669.74,25140.74,health insurance,hourly,CNY
+982,Senior Editor,187,9/21/2014,9/25/2004,57985.7,25372.69,health insurance,salary,IDR
+559,Speech Pathologist,378,10/24/2005,3/10/2015,170631.14,44835.13,paid time off,hourly,IDR
+320,Editor,74,7/27/2022,8/8/2010,49365.62,3363.27,paid time off,salary,CNY
+481,Help Desk Operator,911,10/15/2015,4/3/2015,189316.13,18713.7,health insurance,hourly,CNY
+398,Marketing Assistant,967,2/19/2004,10/7/2009,168104.83,2018.43,paid time off,hourly,SDG
+809,Speech Pathologist,946,7/14/2000,4/21/2006,71597.79,20686.89,retirement plan,salary,BAM
+773,Civil Engineer,663,7/14/2012,7/11/2000,113707.69,49323.74,health insurance,salary,PLN
+905,Electrical Engineer,419,3/14/2021,10/11/2014,117067.47,32891.29,health insurance,hourly,CZK
+145,General Manager,408,2/19/2016,9/4/2022,97301.9,26217.82,paid time off,hourly,IDR
+411,Office Assistant IV,265,9/30/2004,10/7/2019,140270.62,14726.58,health insurance,hourly,EUR
+250,Engineer III,503,8/2/2016,8/2/2008,162423.96,394.29,retirement plan,hourly,IDR
+857,Account Representative III,175,10/20/2020,6/15/2010,117279.09,17097.29,health insurance,salary,IDR
+605,Physical Therapy Assistant,274,6/10/2000,4/8/2003,195795.58,2132.52,health insurance,salary,CNY
+76,GIS Technical Architect,360,3/27/2019,6/28/2011,154600.13,47968.45,health insurance,hourly,IDR
+547,Statistician I,415,6/18/2008,11/26/2019,137461.77,25296.62,retirement plan,hourly,EUR
+551,Associate Professor,8,8/1/2006,1/7/2022,120472.08,28172.18,health insurance,salary,MGA
+404,Nuclear Power Engineer,821,6/25/2013,1/4/2002,168540.31,42607.69,retirement plan,salary,CNY
+705,Senior Cost Accountant,500,12/19/2016,11/20/2015,22582.36,39175.08,retirement plan,salary,IDR
+220,Actuary,548,4/12/2006,8/30/2007,163591.12,37434.43,paid time off,hourly,RUB
+342,Director of Sales,909,6/17/2008,5/9/2013,159195.71,12478.5,health insurance,salary,CNY
+872,Administrative Officer,764,2/18/2007,2/22/2006,114291.48,618.46,retirement plan,salary,SEK
+847,Electrical Engineer,20,9/24/2018,10/26/2018,188242.53,14929.91,retirement plan,salary,EUR
+214,VP Accounting,605,5/22/2015,7/19/2015,76533.4,21526.1,paid time off,hourly,USD
+692,Database Administrator III,64,3/17/2016,5/28/2017,167057.08,6216.26,retirement plan,hourly,IDR
+91,Help Desk Operator,600,12/16/2012,11/9/2020,76421.64,149.64,paid time off,hourly,EUR
+423,Registered Nurse,542,12/14/2020,8/17/2017,97610.58,28810.33,paid time off,salary,PHP
+149,Professor,420,9/17/2020,5/24/2016,122911.91,42321.91,retirement plan,hourly,IDR
+918,Nurse Practicioner,680,6/19/2021,9/25/2001,190787.48,36695.98,health insurance,hourly,BRL
+853,Senior Developer,441,6/18/2004,9/3/2006,100372.87,944.77,health insurance,hourly,RSD
+534,Health Coach IV,808,12/26/2014,11/6/2010,108870.63,4456.08,health insurance,salary,CNY
+470,Project Manager,485,1/29/2006,3/5/2019,46183.89,35103.41,retirement plan,hourly,CNY
+763,Assistant Professor,379,7/23/2010,2/8/2004,137415.64,674.01,health insurance,salary,UYU
+711,Assistant Manager,740,3/5/2004,3/28/2017,173031.74,16738.66,retirement plan,hourly,COP
+242,Payment Adjustment Coordinator,532,1/25/2000,2/11/2009,81164.98,8097.6,paid time off,hourly,CNY
+918,Information Systems Manager,576,5/30/2001,3/17/2006,98414.87,48901.99,health insurance,hourly,VND
+997,Internal Auditor,663,5/9/2014,8/16/2021,192793.24,1032.55,paid time off,hourly,RUB
+369,Chief Design Engineer,223,1/15/2019,7/24/2006,112809.9,28621.27,health insurance,salary,PEN
+12,Administrative Officer,321,10/16/2001,7/9/2003,184983.09,46357.33,paid time off,hourly,EUR
+74,Web Developer IV,404,11/21/2002,8/7/2006,26093.03,44981.22,health insurance,hourly,CLP
+453,Research Assistant II,547,9/23/2010,4/13/2011,21939.3,38772.98,retirement plan,hourly,SYP
+136,Web Designer II,898,4/20/2003,3/24/2010,34863.37,1494.13,health insurance,salary,RUB
+436,Actuary,414,6/27/2010,4/9/2002,149092.5,3914.93,retirement plan,hourly,SAR
+122,Electrical Engineer,491,2/24/2004,12/14/2008,37943.73,24893.27,health insurance,salary,IDR
+446,Software Consultant,983,2/29/2012,6/16/2007,145090.86,6325.16,health insurance,hourly,SEK
+901,Civil Engineer,951,9/28/2016,1/9/2002,114471.07,38993.34,health insurance,hourly,NGN
+698,Technical Writer,886,10/15/2000,8/5/2010,101370.43,15246.11,health insurance,salary,XAF
+114,Staff Accountant II,672,2/13/2011,8/7/2007,88598.47,16779.01,paid time off,hourly,CNY
+335,Structural Engineer,268,2/2/2018,10/12/2009,145980.0,17379.75,health insurance,salary,ARS
+206,Associate Professor,131,5/14/2018,5/15/2008,54183.3,38756.41,health insurance,salary,IDR
+20,Staff Accountant I,431,1/29/2008,10/6/2018,188736.39,20220.21,retirement plan,hourly,NZD
+990,Dental Hygienist,967,7/26/2005,4/21/2001,131899.48,563.02,retirement plan,salary,CNY
+119,Software Test Engineer IV,966,4/5/2018,5/25/2020,68704.69,36670.9,paid time off,salary,IDR
+838,Quality Engineer,705,11/28/2022,1/16/2015,73832.78,13091.27,paid time off,hourly,CAD
+914,Legal Assistant,75,12/14/2005,7/22/2005,101058.43,32284.0,paid time off,hourly,PHP
+785,Nurse Practicioner,555,7/20/2001,11/25/2019,54066.83,15225.06,health insurance,hourly,MGA
+105,Financial Advisor,99,12/24/2017,1/14/2005,171892.78,22353.99,paid time off,salary,RUB
+71,Design Engineer,979,10/17/2017,6/14/2012,31318.54,49031.9,paid time off,hourly,MAD
+272,Sales Associate,864,9/25/2012,2/13/2002,91528.16,35946.11,health insurance,salary,YER
+645,Account Coordinator,557,9/25/2000,8/12/2003,168640.41,43959.1,health insurance,salary,ARS
+187,Account Coordinator,848,8/19/2020,4/26/2015,24439.13,26751.68,paid time off,salary,ARS
+591,Design Engineer,441,1/14/2006,12/7/2010,130247.83,35316.54,health insurance,hourly,USD
+131,Senior Sales Associate,614,8/1/2020,10/29/2014,59320.67,46517.95,paid time off,salary,RUB
+15,VP Product Management,641,11/17/2008,2/8/2017,185459.66,26900.67,retirement plan,hourly,PLN
+10,Graphic Designer,188,3/7/2013,2/24/2019,154430.08,45604.37,health insurance,salary,EUR
+364,Quality Engineer,453,11/24/2006,8/18/2013,120076.86,32925.03,paid time off,salary,RUB
+396,Help Desk Technician,292,11/17/2002,3/27/2015,87531.44,23736.86,health insurance,hourly,IDR
+999,VP Product Management,280,2/27/2010,4/17/2017,28069.23,43341.01,paid time off,hourly,MXN
+323,Health Coach I,105,9/10/2001,7/8/2017,121864.69,44099.83,health insurance,salary,RUB
+284,Physical Therapy Assistant,349,12/21/2022,10/4/2013,45481.26,30427.5,retirement plan,hourly,PKR
+394,Food Chemist,461,12/25/2020,11/2/2006,185482.93,5205.03,retirement plan,salary,PLN
+594,Nuclear Power Engineer,103,4/2/2007,7/6/2022,180733.46,16148.13,paid time off,salary,PLN
+174,Assistant Media Planner,922,6/21/2006,1/19/2015,137864.74,21640.1,health insurance,salary,KZT
+576,Developer II,937,12/8/2001,11/3/2002,198490.01,26720.72,health insurance,hourly,IDR
+818,Food Chemist,979,10/30/2022,6/2/2007,92220.75,13167.78,health insurance,salary,MAD
+830,Nuclear Power Engineer,636,6/11/2012,4/10/2011,60668.21,5566.56,health insurance,salary,PLN
+919,Administrative Officer,912,4/23/2004,1/27/2019,34651.28,22505.51,health insurance,hourly,IDR
+381,Compensation Analyst,258,11/4/2012,6/6/2017,162530.18,21797.52,retirement plan,salary,PHP
+912,Office Assistant III,951,7/27/2014,3/10/2005,82476.11,30388.98,health insurance,salary,NOK
+819,Librarian,672,9/10/2006,1/17/2012,23910.84,28878.16,health insurance,salary,USD
+999,Recruiting Manager,220,1/5/2019,9/9/2020,158612.27,47748.91,retirement plan,hourly,EUR
+733,Software Test Engineer IV,475,9/18/2016,10/7/2021,187612.94,12358.52,paid time off,hourly,NOK
+939,Research Assistant II,63,11/24/2022,5/13/2014,33129.95,19414.93,paid time off,salary,CNY
+471,Media Manager III,227,2/12/2022,8/17/2008,193649.35,32259.43,health insurance,salary,EUR
+427,Pharmacist,867,1/28/2021,2/7/2004,86636.17,5631.64,health insurance,salary,EUR
+89,Environmental Specialist,326,12/30/2014,1/28/2017,48739.85,44942.73,retirement plan,hourly,USD
+842,Tax Accountant,330,10/16/2009,5/24/2019,26626.26,4203.33,health insurance,hourly,CNY
+793,VP Quality Control,663,9/24/2016,1/3/2002,189464.2,11526.91,paid time off,salary,CZK
+421,Senior Editor,821,12/30/2018,4/28/2006,145722.36,33739.34,retirement plan,salary,RUB
+441,Information Systems Manager,215,5/27/2022,8/13/2013,33498.06,45008.19,retirement plan,salary,EGP
+903,Teacher,786,6/21/2012,1/31/2001,191975.88,12599.82,retirement plan,salary,ILS
+649,Nurse,681,1/30/2006,11/30/2002,191191.67,25233.31,health insurance,hourly,ZAR
+209,Information Systems Manager,786,4/27/2003,4/13/2010,34576.4,38145.16,health insurance,hourly,AZN
+514,GIS Technical Architect,239,9/13/2011,5/7/2004,42640.22,39211.72,retirement plan,hourly,USD
+807,Recruiter,979,11/5/2021,6/3/2003,54818.18,6979.02,health insurance,salary,PHP
+341,Help Desk Operator,114,10/6/2009,6/18/2019,174770.07,48517.7,retirement plan,hourly,KRW
+552,Teacher,323,9/6/2012,12/21/2018,101643.75,31628.47,retirement plan,salary,BRL
+167,Tax Accountant,999,2/4/2009,1/31/2013,133781.25,39982.1,retirement plan,hourly,IDR
+141,Programmer Analyst I,721,9/14/2005,5/2/2004,69099.77,37764.27,paid time off,hourly,CNY
+172,Registered Nurse,738,2/21/2016,8/30/2019,100953.36,46092.89,health insurance,salary,EUR
+2,Editor,544,3/20/2022,5/28/2013,57262.44,9342.24,paid time off,hourly,HRK
+292,Electrical Engineer,216,5/13/2022,1/25/2011,143959.61,35732.68,health insurance,salary,PLN
+793,Web Developer II,172,7/5/2002,1/20/2020,60829.08,35735.38,retirement plan,salary,SEK
+383,Desktop Support Technician,778,7/14/2010,9/8/2001,194451.73,38280.62,health insurance,salary,BRL
+284,Senior Sales Associate,401,3/9/2020,3/1/2017,43728.57,18807.2,retirement plan,hourly,BRL
+372,Dental Hygienist,886,5/2/2020,10/19/2022,116078.68,13577.46,health insurance,hourly,EUR
+228,Pharmacist,372,9/17/2000,5/11/2022,147601.83,31680.14,retirement plan,hourly,RUB
+540,Marketing Assistant,463,2/29/2012,3/17/2008,61721.07,40443.89,retirement plan,salary,XPF
+306,Systems Administrator III,401,8/4/2008,7/3/2002,91290.14,20865.38,health insurance,salary,PLN
+942,Civil Engineer,280,8/15/2009,6/13/2021,38045.72,48766.02,retirement plan,salary,CZK
+428,VP Accounting,892,5/27/2000,11/11/2004,197331.35,39605.34,retirement plan,hourly,USD
+215,Account Executive,863,12/6/2011,10/12/2014,159136.66,48254.51,health insurance,salary,KMF
+437,Speech Pathologist,827,3/22/2022,1/19/2014,171200.81,16727.94,health insurance,hourly,IDR
+796,Assistant Media Planner,655,2/27/2022,12/12/2007,170941.1,20045.41,health insurance,salary,TWD
+524,Senior Financial Analyst,14,10/30/2014,7/8/2014,130511.73,13425.77,health insurance,hourly,MKD
+10,Senior Cost Accountant,647,6/14/2006,10/27/2001,29122.64,46335.41,retirement plan,salary,XOF
+655,General Manager,196,2/1/2008,7/12/2005,149784.75,29998.57,retirement plan,salary,CNY
+962,Paralegal,110,5/26/2014,10/14/2014,69505.21,28247.18,retirement plan,hourly,AZN
+511,Help Desk Technician,718,10/28/2014,1/21/2001,115384.98,11456.78,paid time off,salary,EUR
+764,Social Worker,900,12/12/2001,7/1/2011,131587.78,17228.55,paid time off,hourly,CNY
+374,Chemical Engineer,492,5/23/2010,3/13/2008,197116.94,2704.6,paid time off,salary,PHP
+165,Account Coordinator,640,9/3/2001,5/3/2000,128616.75,39512.22,health insurance,hourly,EUR
+37,Librarian,741,5/13/2014,10/2/2013,63001.76,33232.98,health insurance,salary,MNT
+215,Analyst Programmer,770,9/7/2013,1/18/2014,161927.02,25448.9,retirement plan,salary,CNY
+590,VP Product Management,747,3/19/2001,6/3/2018,136158.24,10739.57,health insurance,hourly,EUR
+862,Account Representative IV,80,7/12/2021,10/18/2015,158690.51,17005.09,retirement plan,salary,IDR
+323,Geological Engineer,171,9/17/2018,12/4/2005,192817.81,40684.87,retirement plan,hourly,RUB
+118,VP Product Management,423,9/5/2010,10/30/2000,189623.41,1450.06,paid time off,salary,GBP
+611,Engineer III,231,3/17/2022,1/29/2004,42485.63,28618.86,paid time off,salary,KWD
+419,Librarian,433,8/16/2017,1/11/2014,156768.29,7577.19,health insurance,salary,EUR
+585,Software Test Engineer I,414,9/15/2008,5/14/2002,51804.66,29716.46,health insurance,hourly,RUB
+516,Safety Technician III,693,1/8/2009,5/18/2015,45291.91,39016.3,retirement plan,salary,BGN
+65,Assistant Media Planner,735,2/5/2009,6/16/2006,69437.1,24474.33,retirement plan,hourly,RUB
+988,Sales Associate,586,12/6/2006,1/10/2014,145806.64,31241.67,retirement plan,salary,CNY
+47,Assistant Professor,762,11/11/2019,5/15/2016,64253.4,26344.09,paid time off,hourly,PHP
+710,Account Representative II,113,11/2/2013,5/8/2020,38136.22,2067.09,paid time off,salary,IDR
+602,Research Assistant IV,529,1/8/2006,3/28/2011,142186.7,24768.04,paid time off,hourly,IDR
+507,Geologist III,444,3/6/2011,9/5/2004,70067.45,43489.51,paid time off,salary,EUR
+676,Office Assistant IV,326,10/2/2010,4/23/2001,188838.0,10966.85,retirement plan,salary,CAD
+929,Social Worker,117,10/25/2020,10/15/2010,183634.88,24558.65,health insurance,hourly,PHP
+23,Software Test Engineer II,946,7/6/2010,3/16/2011,129751.53,9746.25,retirement plan,salary,CNY
+732,Community Outreach Specialist,212,10/6/2004,5/14/2007,114818.33,26365.75,retirement plan,salary,EUR
+800,VP Sales,948,5/4/2006,6/29/2010,94070.83,41332.58,paid time off,salary,SEK
+105,Chemical Engineer,585,11/9/2014,2/16/2014,150233.41,27794.76,retirement plan,salary,CNY
+97,Senior Quality Engineer,976,7/12/2002,4/25/2000,198457.48,36917.64,health insurance,salary,ZAR
+721,Pharmacist,551,9/5/2000,11/2/2014,88763.71,21864.49,retirement plan,hourly,CAD
+529,Financial Analyst,94,3/5/2022,11/10/2006,69304.05,7334.87,retirement plan,hourly,KES
+54,Help Desk Operator,35,10/30/2004,9/15/2020,116550.14,40448.38,paid time off,hourly,CNY
+412,Automation Specialist IV,593,10/26/2010,7/30/2017,32707.73,47210.78,health insurance,salary,LSL
+739,Senior Financial Analyst,819,5/2/2020,1/8/2022,23451.63,46119.55,health insurance,salary,IDR
+89,Office Assistant II,677,9/9/2022,8/18/2007,99453.86,28911.99,retirement plan,hourly,EUR
+475,Business Systems Development Analyst,318,8/11/2013,3/13/2000,193369.1,28815.83,retirement plan,salary,EUR
+137,Software Consultant,810,2/28/2002,4/23/2000,173465.74,31372.14,retirement plan,salary,CNY
+961,Sales Representative,791,4/21/2004,6/11/2014,185465.29,47583.5,health insurance,hourly,AMD
+707,Junior Executive,661,1/23/2019,6/15/2013,89088.84,7591.57,health insurance,hourly,PHP
+628,Environmental Specialist,798,1/24/2018,5/25/2018,184410.06,12022.28,health insurance,salary,LYD
+940,Occupational Therapist,373,10/5/2015,12/26/2002,139656.54,5267.87,health insurance,hourly,KGS
+776,Payment Adjustment Coordinator,709,10/25/2022,4/20/2012,122199.35,13840.89,health insurance,hourly,UZS
+684,Professor,311,7/26/2002,5/4/2009,115634.19,39982.67,retirement plan,hourly,AUD
+340,Social Worker,128,2/6/2016,8/30/2021,99812.87,49193.18,paid time off,salary,EUR
+261,Senior Sales Associate,873,8/28/2020,1/23/2018,82221.52,3837.77,health insurance,hourly,CNY
+495,Recruiter,255,2/27/2010,3/16/2007,26177.24,12580.27,retirement plan,hourly,JPY
+462,VP Sales,479,11/22/2018,4/24/2020,143336.61,34322.88,paid time off,salary,UAH
+389,Office Assistant II,279,10/28/2019,6/16/2015,108641.93,19440.02,retirement plan,salary,PHP
+58,Technical Writer,866,11/15/2019,12/20/2012,130806.15,35966.32,retirement plan,hourly,PHP
+181,Mechanical Systems Engineer,576,12/16/2015,2/19/2007,186031.22,10963.24,paid time off,salary,CAD
+256,General Manager,571,4/19/2013,2/10/2022,30353.95,4787.31,paid time off,hourly,EUR
+183,Account Executive,706,5/6/2003,10/20/2017,146877.26,47500.7,health insurance,salary,SEK
+444,Software Test Engineer III,54,1/2/2016,12/27/2015,23585.25,33481.9,retirement plan,salary,BRL
+150,Account Coordinator,554,10/29/2021,1/8/2013,87590.9,49637.65,health insurance,hourly,CNY
+532,General Manager,434,1/6/2000,9/7/2016,39296.77,19636.25,retirement plan,hourly,CNY
+360,Librarian,919,6/12/2009,5/10/2016,98163.85,23749.68,health insurance,hourly,CNY
+459,Database Administrator I,209,6/21/2013,6/7/2015,131354.9,42732.21,health insurance,hourly,SEK
+160,Budget/Accounting Analyst IV,609,4/20/2008,8/14/2003,69728.15,5682.11,retirement plan,hourly,ETB
+698,Staff Scientist,537,11/22/2006,4/26/2010,191577.26,33478.29,health insurance,salary,CNY
+701,Account Representative I,846,8/16/2021,6/13/2001,128619.8,16030.2,retirement plan,salary,IDR
+312,Technical Writer,191,12/6/2000,12/30/2011,71103.97,35098.99,health insurance,hourly,NZD
+562,Safety Technician III,733,10/11/2008,8/25/2009,109904.85,27399.15,paid time off,hourly,XAF
+649,Media Manager I,129,1/8/2021,4/22/2022,92601.11,28785.47,paid time off,hourly,PKR
+661,Assistant Manager,211,6/17/2015,5/27/2020,181483.09,31585.52,paid time off,hourly,EUR
+61,Associate Professor,457,5/31/2004,6/26/2018,66432.08,33161.6,paid time off,hourly,EUR
+939,Programmer Analyst I,335,3/31/2018,2/12/2006,143893.82,38136.59,paid time off,salary,IDR
+664,Research Nurse,104,6/18/2004,6/13/2002,34576.55,28848.01,health insurance,salary,PLN
+622,Pharmacist,980,7/3/2009,11/19/2022,100531.17,21006.97,paid time off,salary,RUB
+635,Geological Engineer,699,9/9/2003,4/1/2014,168155.18,15784.69,health insurance,salary,CNY
+302,Budget/Accounting Analyst IV,743,8/16/2004,1/5/2017,70493.48,13014.8,paid time off,salary,ARS
+129,Junior Executive,365,9/20/2004,5/17/2008,102533.9,4311.37,health insurance,hourly,EUR
+38,Office Assistant II,719,2/21/2018,8/11/2016,66252.05,41049.53,retirement plan,salary,ALL
+150,Programmer III,85,10/30/2019,12/22/2014,151455.47,9248.08,health insurance,salary,CNY
+902,Web Developer IV,314,7/28/2004,12/28/2012,36802.51,29624.29,paid time off,salary,THB
+48,Legal Assistant,982,12/22/2020,7/15/2002,31726.73,34351.12,paid time off,hourly,BGN
+923,Marketing Manager,754,4/8/2020,8/2/2021,190389.75,15605.66,health insurance,hourly,NOK
+487,Desktop Support Technician,379,7/14/2000,6/12/2017,67836.22,14771.52,retirement plan,hourly,PLN
+707,Product Engineer,783,1/15/2012,8/27/2021,183532.87,7923.99,health insurance,hourly,CNY
+686,Geologist III,679,2/26/2012,6/5/2009,144078.82,9227.36,paid time off,salary,CZK
+87,Structural Engineer,51,7/9/2003,11/28/2022,194242.11,34224.99,retirement plan,salary,THB
+356,Chief Design Engineer,699,5/28/2004,10/3/2019,102229.29,8046.54,retirement plan,hourly,EUR
+570,Quality Control Specialist,139,1/27/2011,4/6/2005,117381.97,40406.03,health insurance,salary,CZK
+759,Analog Circuit Design manager,162,5/19/2022,8/17/2010,110612.26,676.39,paid time off,hourly,RSD
+411,Senior Financial Analyst,384,3/10/2011,4/8/2020,138083.5,38376.84,health insurance,salary,NGN
+407,Senior Developer,92,11/12/2020,7/14/2009,138435.76,13580.79,paid time off,hourly,PLN
+469,Nuclear Power Engineer,958,7/20/2003,1/19/2014,151563.81,44642.03,health insurance,salary,CNY
+331,Compensation Analyst,483,11/6/2020,7/28/2022,114135.54,29734.44,health insurance,salary,CNY
+946,Software Test Engineer III,573,10/11/2004,10/9/2014,68826.09,33936.42,health insurance,hourly,IDR
+793,Financial Analyst,930,5/7/2004,9/11/2011,159949.73,23175.61,paid time off,salary,IDR
+741,Nurse Practicioner,713,11/4/2003,2/1/2017,136978.48,32123.56,paid time off,salary,RSD
+710,VP Accounting,236,6/16/2019,2/8/2016,69109.79,29315.7,paid time off,salary,IDR
+932,Web Developer III,483,2/24/2002,8/15/2005,122150.15,10268.65,health insurance,salary,VND
+461,Automation Specialist III,153,11/6/2015,5/30/2021,176637.96,46468.68,retirement plan,salary,GTQ
+782,GIS Technical Architect,858,8/27/2008,8/17/2015,126331.92,11888.48,retirement plan,salary,RUB
+173,Social Worker,345,3/10/2001,4/11/2005,123718.01,49575.18,health insurance,hourly,ARS
+575,Senior Sales Associate,56,12/28/2003,7/29/2000,149411.28,8273.21,retirement plan,hourly,NAD
+219,Web Designer II,182,12/2/2010,3/15/2006,125794.73,31805.34,health insurance,salary,CNY
+712,Analyst Programmer,884,1/4/2006,1/12/2002,92176.82,945.08,retirement plan,hourly,CNY
+521,Civil Engineer,480,11/28/2015,7/28/2022,135596.06,18845.17,paid time off,hourly,JPY
+8,Marketing Assistant,665,3/15/2006,6/11/2013,141084.72,42039.63,health insurance,hourly,CNY
+232,Senior Financial Analyst,550,3/28/2003,9/9/2014,127542.48,26401.12,paid time off,salary,HUF
+167,Internal Auditor,170,2/26/2011,8/18/2018,86501.28,46368.36,paid time off,salary,XCD
+776,Quality Control Specialist,172,6/15/2021,7/23/2005,128871.61,30202.74,retirement plan,hourly,IDR
+978,Structural Engineer,14,2/21/2003,2/3/2016,152499.93,6292.14,paid time off,salary,USD
+945,Teacher,650,2/2/2016,8/29/2003,114684.15,31616.64,health insurance,salary,IDR
+945,VP Quality Control,431,6/30/2022,4/13/2000,115591.51,20876.08,retirement plan,salary,MXN
+15,Software Test Engineer IV,180,11/19/2009,11/12/2017,165384.98,30570.26,paid time off,hourly,CNY
+486,Financial Advisor,544,11/1/2021,5/17/2006,171294.45,11350.94,retirement plan,hourly,UZS
+798,Assistant Professor,679,9/10/2022,9/27/2003,125492.58,10475.14,paid time off,hourly,USD
+158,Assistant Professor,873,7/25/2020,4/19/2018,123840.03,14349.42,retirement plan,hourly,IDR
+101,Biostatistician IV,528,10/16/2009,3/21/2003,76387.86,46302.68,paid time off,salary,USD
+753,VP Accounting,590,1/23/2000,9/18/2006,66006.1,4665.89,health insurance,salary,JPY
+851,Human Resources Assistant II,239,8/9/2005,4/4/2022,91894.64,16679.25,retirement plan,salary,RUB
+359,Sales Representative,998,12/28/2022,11/5/2022,186981.78,28919.81,health insurance,hourly,EUR
+554,Tax Accountant,760,6/23/2004,9/20/2014,102618.55,26275.78,health insurance,salary,EUR
+569,Civil Engineer,818,5/3/2005,8/4/2004,142186.41,42221.71,health insurance,salary,PLN
+387,Associate Professor,823,5/5/2015,12/28/2006,163795.72,12295.12,retirement plan,hourly,EUR
+585,Nuclear Power Engineer,701,11/1/2006,11/15/2009,59172.89,45398.38,retirement plan,salary,ZAR
+863,Developer III,716,7/23/2000,2/2/2015,27334.06,11547.2,paid time off,salary,EUR
+859,Internal Auditor,745,10/29/2022,3/29/2005,150365.86,38694.0,retirement plan,hourly,BRL
+788,Software Consultant,600,3/22/2000,8/6/2013,83324.91,515.2,paid time off,salary,CNY
+633,Sales Associate,799,5/24/2010,7/14/2016,64069.37,8516.58,health insurance,hourly,CNY
+112,Programmer Analyst III,874,7/1/2000,1/20/2004,150512.52,7420.44,retirement plan,hourly,RSD
+788,Nurse Practicioner,115,4/14/2007,1/19/2004,32276.13,10431.01,health insurance,salary,BRL
+615,Information Systems Manager,297,6/22/2009,7/10/2007,26644.77,18952.98,health insurance,salary,ARS
+48,Statistician IV,822,6/16/2012,7/18/2021,148158.12,3293.82,paid time off,salary,PHP
+83,Actuary,882,11/28/2008,4/7/2011,105142.32,20197.09,health insurance,salary,IDR
+583,Assistant Media Planner,142,12/30/2010,12/15/2006,112838.6,39808.71,retirement plan,salary,CNY
+167,Librarian,723,6/29/2016,8/26/2004,59904.44,27058.27,health insurance,hourly,THB
+144,Programmer Analyst III,417,4/25/2014,9/5/2009,93876.91,42714.01,retirement plan,hourly,MAD
+983,Civil Engineer,243,12/13/2003,2/7/2004,68179.18,37324.77,paid time off,salary,PLN
+638,Automation Specialist II,532,7/7/2021,10/5/2016,152276.02,19530.24,paid time off,salary,CZK
+123,Nuclear Power Engineer,79,2/14/2012,10/19/2009,136720.26,9931.44,paid time off,hourly,EUR
+876,Clinical Specialist,727,5/21/2002,6/27/2007,132768.06,3708.81,health insurance,salary,CNY
+498,Research Nurse,929,10/13/2007,4/21/2004,168980.03,36576.58,health insurance,hourly,PHP
+667,Paralegal,342,12/3/2001,10/2/2003,67427.58,20630.29,paid time off,hourly,IDR
+225,Research Assistant I,528,9/4/2012,8/7/2016,165017.16,34420.13,retirement plan,hourly,PEN
+649,Help Desk Technician,255,12/13/2006,6/1/2004,93164.01,47840.17,retirement plan,hourly,CNY
+814,Sales Representative,592,11/24/2006,5/31/2007,187430.76,22863.49,health insurance,salary,PHP
+14,Desktop Support Technician,551,9/13/2022,4/13/2002,71525.35,9831.22,paid time off,salary,CNY
+640,Chemical Engineer,177,5/19/2022,6/14/2005,110650.26,4517.56,health insurance,salary,RUB
+880,Database Administrator I,746,12/14/2015,2/25/2010,118432.74,17650.02,health insurance,salary,IDR
+861,Administrative Assistant II,859,3/22/2013,4/2/2022,108937.0,421.62,paid time off,salary,EUR
+108,Technical Writer,459,11/2/2019,5/4/2021,126284.51,17367.73,health insurance,hourly,BYR
+718,Assistant Professor,866,9/19/2016,6/28/2001,119590.62,29215.24,paid time off,salary,USD
+896,Design Engineer,541,2/11/2008,5/31/2021,78243.86,46693.72,health insurance,hourly,EUR
+346,Human Resources Manager,135,1/18/2002,2/13/2022,148032.59,3038.3,retirement plan,hourly,EUR
+231,Computer Systems Analyst III,128,6/26/2000,7/2/2015,198367.44,31354.66,paid time off,hourly,IDR
+294,Administrative Officer,52,8/27/2009,4/24/2004,90892.1,47524.21,retirement plan,hourly,PHP
+581,Assistant Media Planner,646,1/9/2013,5/2/2001,128672.2,37020.65,paid time off,salary,LYD
+386,Marketing Manager,509,1/20/2018,1/5/2005,125130.46,41413.85,retirement plan,salary,COP
+643,Administrative Officer,109,10/24/2000,7/27/2001,115873.83,43791.21,paid time off,hourly,USD
+169,Electrical Engineer,460,2/9/2016,9/21/2013,166144.53,44542.62,retirement plan,hourly,IDR
+212,Clinical Specialist,43,7/16/2010,1/26/2011,116439.25,7168.23,paid time off,hourly,PHP
+147,Account Coordinator,110,1/7/2014,4/26/2003,36182.54,27318.9,paid time off,hourly,AZN
+821,Internal Auditor,557,5/8/2020,8/24/2009,103514.57,14411.16,paid time off,hourly,PEN
+952,VP Marketing,377,12/1/2005,1/29/2018,133449.02,10824.29,retirement plan,salary,CNY
+334,VP Accounting,332,1/12/2008,7/15/2006,194049.93,15886.64,health insurance,hourly,IDR
+870,Financial Analyst,80,2/22/2006,3/30/2013,102446.57,1906.74,paid time off,salary,COP
+461,Administrative Assistant III,552,2/10/2000,12/30/2017,177558.53,4526.0,health insurance,salary,CNY
+592,Cost Accountant,493,6/3/2022,3/14/2007,126951.6,5172.78,retirement plan,salary,CNY
+410,Occupational Therapist,831,12/28/2016,7/30/2022,137933.99,1722.83,health insurance,salary,CNY
+995,Account Representative III,646,10/12/2007,11/1/2014,123206.5,16958.53,health insurance,salary,CNY
+108,VP Marketing,789,12/9/2018,6/29/2014,158081.37,185.66,retirement plan,hourly,PHP
+590,Senior Quality Engineer,282,5/19/2021,2/2/2010,110346.4,42388.21,health insurance,salary,CNY
+400,Business Systems Development Analyst,392,12/6/2000,7/28/2013,51710.92,49317.77,paid time off,hourly,BRL
+214,Administrative Officer,716,3/22/2012,12/25/2007,103065.94,18827.78,paid time off,salary,YER
+755,Civil Engineer,346,10/3/2001,8/4/2008,22063.93,44181.98,health insurance,hourly,LTL
+79,Senior Developer,596,10/16/2010,1/20/2002,60831.33,27252.59,retirement plan,salary,SEK
+468,Senior Quality Engineer,266,8/7/2001,12/25/2009,187477.78,24978.94,retirement plan,salary,CNY
+300,Chief Design Engineer,52,4/29/2013,12/10/2011,118498.22,45755.65,retirement plan,salary,CZK
+120,Analyst Programmer,551,2/14/2017,4/15/2008,111130.99,49568.7,retirement plan,salary,PLN
+259,Senior Sales Associate,762,4/24/2018,12/23/2019,130778.2,22213.39,retirement plan,hourly,PHP
+170,Automation Specialist III,242,6/7/2018,5/23/2017,182285.69,19309.72,paid time off,salary,CNY
+431,Graphic Designer,766,2/23/2020,4/15/2017,152496.35,23239.64,paid time off,hourly,CNY
+185,Staff Accountant I,823,11/19/2009,12/27/2017,127019.89,19892.12,health insurance,salary,ZAR
+504,Data Coordinator,504,9/12/2022,10/18/2013,88221.54,26278.22,health insurance,hourly,BRL
+157,Staff Accountant IV,213,10/22/2018,6/8/2008,136750.12,41790.77,retirement plan,hourly,THB
+681,Accountant I,174,8/8/2011,10/7/2002,58316.41,4852.55,retirement plan,hourly,CNY
+721,Quality Engineer,994,5/20/2014,7/8/2002,112340.51,33129.98,health insurance,salary,PEN
+395,Teacher,197,5/21/2005,1/15/2002,165036.41,46568.69,paid time off,hourly,JPY
+865,Staff Scientist,934,3/26/2019,8/1/2008,29300.42,42989.28,paid time off,salary,COP
+38,Project Manager,71,10/7/2013,1/16/2022,139977.93,45314.66,health insurance,hourly,CUP
+858,Structural Engineer,327,4/12/2018,2/8/2020,162033.07,18934.03,paid time off,salary,TZS
+757,VP Product Management,678,1/22/2016,6/19/2011,159831.43,11023.02,paid time off,hourly,PLN
+55,Marketing Assistant,688,7/29/2017,10/22/2013,146665.07,34878.1,health insurance,hourly,CAD
+32,Account Executive,211,5/9/2005,4/1/2001,198636.94,4385.03,paid time off,salary,CNY
+79,Quality Engineer,619,3/14/2014,1/24/2004,123760.58,16654.67,retirement plan,hourly,CNY
+468,Human Resources Assistant III,804,7/23/2003,5/26/2022,72663.73,20095.94,health insurance,hourly,COP
+845,Product Engineer,31,6/23/2001,6/3/2004,44512.07,28564.24,paid time off,salary,IDR
+129,Data Coordinator,449,11/10/2003,6/15/2022,66830.81,23225.35,retirement plan,hourly,JPY
+299,Desktop Support Technician,617,4/26/2000,8/28/2002,129760.3,17707.04,health insurance,hourly,JPY
+468,Account Representative IV,419,2/27/2014,1/26/2002,130223.25,4322.8,retirement plan,hourly,CNY
+980,Teacher,769,6/15/2013,7/12/2014,125294.55,15748.19,health insurance,salary,ETB
+462,Safety Technician I,404,2/17/2013,9/10/2022,108202.13,38782.01,retirement plan,salary,ALL
+546,Safety Technician II,459,2/11/2019,8/14/2003,157233.15,49588.05,paid time off,hourly,CNY
+67,Administrative Assistant I,582,11/15/2004,11/4/2019,58235.34,29091.82,health insurance,hourly,EUR
+444,Help Desk Technician,676,1/2/2005,9/15/2016,178376.27,33730.13,health insurance,hourly,AMD
+965,Desktop Support Technician,664,3/16/2010,1/25/2011,92957.67,27181.76,paid time off,salary,IDR
+997,Senior Editor,480,9/6/2011,12/2/2019,39755.96,10908.59,retirement plan,salary,IDR
+522,Structural Engineer,126,12/6/2019,12/13/2008,71735.98,14066.77,paid time off,hourly,IDR
+406,Help Desk Operator,499,5/13/2005,10/28/2003,135001.09,6414.21,paid time off,salary,JPY
+781,Cost Accountant,276,4/18/2019,8/2/2010,108452.2,19680.02,retirement plan,hourly,IDR
+551,Tax Accountant,790,12/24/2017,4/10/2006,107064.02,39671.49,paid time off,salary,CNY
+749,Occupational Therapist,685,5/17/2014,5/18/2012,83684.16,39707.67,retirement plan,hourly,CNY
+641,Business Systems Development Analyst,228,12/23/2004,8/9/2019,109242.14,30759.1,retirement plan,hourly,EUR
+715,Research Nurse,286,6/23/2003,9/5/2007,21877.38,46662.2,health insurance,hourly,PLN
+644,Community Outreach Specialist,922,8/24/2015,10/6/2010,85553.52,34781.39,paid time off,salary,PHP
+178,Software Engineer IV,236,3/3/2009,4/11/2018,40765.25,32768.98,retirement plan,hourly,PEN
+453,Assistant Media Planner,136,7/29/2014,5/20/2002,119664.8,11710.31,paid time off,salary,PHP
+275,Accounting Assistant I,936,7/21/2021,1/28/2020,139751.59,13925.38,retirement plan,hourly,BRL
+205,Environmental Tech,86,10/29/2019,6/9/2012,94930.13,32436.25,paid time off,salary,PLN
+501,Quality Engineer,464,7/17/2013,9/14/2014,185036.86,41577.42,paid time off,salary,CNY
+950,Pharmacist,126,9/9/2009,6/8/2005,32098.21,25741.55,retirement plan,hourly,SEK
+884,Actuary,775,5/5/2003,5/25/2022,64711.64,14385.71,health insurance,salary,CNY
+217,Software Test Engineer IV,909,9/2/2004,6/30/2004,135137.02,6022.78,health insurance,hourly,SEK
+498,Marketing Assistant,30,12/5/2017,8/15/2020,39308.21,26560.71,paid time off,hourly,ALL
+383,Chemical Engineer,938,11/9/2014,4/27/2015,181194.48,46202.48,retirement plan,hourly,CNY
+81,Mechanical Systems Engineer,531,11/8/2010,11/3/2011,170776.74,22953.73,retirement plan,salary,VEF
+844,Information Systems Manager,661,2/4/2021,6/18/2001,60141.46,31197.21,retirement plan,hourly,THB
+912,Account Representative II,170,5/27/2019,8/29/2010,166132.7,3711.47,paid time off,salary,PLN
+345,Nurse,315,1/26/2021,5/15/2014,196408.06,42378.19,health insurance,hourly,EUR
+150,Associate Professor,913,8/8/2010,10/25/2017,137675.34,7174.67,paid time off,hourly,IDR
+865,Structural Analysis Engineer,591,7/10/2020,9/16/2003,104870.88,19598.2,retirement plan,hourly,CNY
+67,Executive Secretary,456,7/9/2017,5/1/2009,62916.51,20577.83,paid time off,salary,BRL
+802,Editor,527,6/24/2016,1/3/2003,165311.12,10226.48,retirement plan,hourly,AMD
+565,Internal Auditor,140,4/5/2016,2/11/2022,129881.6,4834.24,retirement plan,salary,KPW
+850,Web Designer II,150,8/2/2010,4/29/2002,120893.39,49331.32,retirement plan,hourly,PEN
+958,Dental Hygienist,603,1/18/2009,2/15/2016,91939.7,25827.52,health insurance,hourly,EUR
+282,Nuclear Power Engineer,864,10/2/2022,7/9/2002,33063.17,26437.21,retirement plan,salary,PHP
+83,Dental Hygienist,651,1/6/2016,5/10/2017,163019.28,6628.53,retirement plan,salary,IDR
+563,Product Engineer,452,6/1/2021,4/28/2002,163626.79,32666.73,health insurance,hourly,IDR
+874,Electrical Engineer,719,7/28/2011,6/23/2022,111147.87,13529.31,retirement plan,salary,CNY
+881,Graphic Designer,464,7/14/2020,4/2/2021,141267.14,16148.53,health insurance,salary,EUR
+165,VP Accounting,479,1/4/2005,1/15/2000,107123.46,7437.08,health insurance,hourly,IDR
+588,Analyst Programmer,923,1/24/2011,8/30/2002,83881.57,8264.75,retirement plan,hourly,RSD
+824,Senior Quality Engineer,900,1/26/2013,9/27/2000,41690.89,43463.61,retirement plan,salary,MAD
+976,Assistant Professor,400,8/28/2011,1/6/2018,114460.64,49623.63,health insurance,hourly,THB
+4,Programmer IV,732,11/10/2009,11/13/2003,180817.5,47344.43,paid time off,hourly,EUR
+667,Desktop Support Technician,189,2/2/2004,6/1/2012,26816.77,20556.93,health insurance,salary,CNY
+930,VP Quality Control,523,2/7/2018,3/1/2005,46846.56,7221.87,health insurance,hourly,CNY
+778,Geological Engineer,708,11/17/2019,3/6/2001,73279.72,8752.02,health insurance,salary,SEK
+979,Account Executive,802,12/19/2008,12/3/2014,92607.2,29308.39,retirement plan,hourly,BRL
+103,Pharmacist,40,6/26/2019,2/9/2005,124973.13,22331.23,paid time off,hourly,BRL
+447,Clinical Specialist,74,3/15/2000,4/1/2020,170229.05,15188.91,retirement plan,salary,MKD
+744,Dental Hygienist,105,6/13/2022,2/6/2018,144213.55,19325.0,retirement plan,salary,XOF
+972,Computer Systems Analyst II,555,6/10/2021,11/4/2016,89248.62,35512.41,paid time off,salary,PLN
+444,Assistant Manager,413,3/27/2007,6/20/2009,37395.3,36837.26,health insurance,hourly,TND
+636,Geological Engineer,162,8/29/2005,5/18/2011,47298.36,20774.76,health insurance,salary,RUB
+535,Administrative Officer,418,9/14/2012,3/11/2019,94421.62,10701.63,paid time off,salary,CNY
+216,Research Assistant II,321,5/1/2001,3/4/2015,171390.04,1302.5,retirement plan,hourly,RUB
+254,Registered Nurse,60,4/16/2008,1/7/2018,128925.77,49034.96,retirement plan,salary,CNY
+602,Help Desk Operator,851,1/13/2021,3/25/2010,145894.55,34767.33,paid time off,hourly,CNY
+141,Help Desk Technician,611,8/24/2007,5/11/2015,21934.85,36886.02,health insurance,hourly,EUR
+369,Computer Systems Analyst III,29,10/25/2014,11/10/2009,146885.8,11703.34,paid time off,salary,EUR
+976,Financial Analyst,933,7/20/2011,9/28/2004,74955.12,27305.08,retirement plan,hourly,CNY
+920,Recruiter,303,12/13/2009,11/12/2022,126851.79,46492.19,health insurance,salary,CNY
+907,Human Resources Manager,168,6/12/2016,1/13/2022,120844.07,32943.95,paid time off,hourly,SEK
+878,VP Marketing,851,10/10/2017,1/1/2014,155209.35,25953.95,paid time off,hourly,LBP
+739,Compensation Analyst,415,10/13/2020,8/3/2014,159783.08,43176.09,retirement plan,salary,IDR
+405,Marketing Manager,632,2/8/2009,2/2/2005,157442.96,23958.83,paid time off,hourly,EUR
+265,Chief Design Engineer,227,6/2/2013,8/31/2010,44676.69,45765.99,paid time off,salary,CNY
+435,Geologist II,710,10/14/2000,3/22/2019,124154.01,25266.98,retirement plan,hourly,SEK
+5,Occupational Therapist,613,1/26/2018,3/27/2018,179138.51,218.04,paid time off,salary,AMD
+766,Project Manager,798,12/6/2012,11/6/2007,150631.11,26297.33,health insurance,salary,SEK
+942,Quality Engineer,684,6/14/2016,4/13/2002,36561.39,31385.88,paid time off,hourly,JPY
+25,Accountant II,566,11/27/2013,3/7/2001,51067.75,8427.43,health insurance,hourly,NOK
+194,Analyst Programmer,342,5/15/2003,1/8/2009,74237.79,3117.52,health insurance,salary,CNY
+680,Statistician I,829,5/17/2016,2/11/2010,170234.5,6708.52,paid time off,salary,MYR
+813,Civil Engineer,528,8/6/2008,4/22/2019,97417.65,49107.7,retirement plan,salary,EUR
+329,Nuclear Power Engineer,243,6/14/2013,9/9/2017,47508.39,6228.32,retirement plan,hourly,JPY
+339,Safety Technician II,559,3/13/2011,8/5/2009,174538.94,4114.36,health insurance,hourly,RUB
+484,Teacher,51,7/6/2019,8/30/2021,87788.01,12256.72,paid time off,salary,BRL
+703,Administrative Officer,70,11/2/2008,8/20/2018,107039.03,5253.2,health insurance,salary,EUR
+57,Project Manager,324,11/20/2016,1/27/2014,133558.41,46107.48,retirement plan,hourly,JPY
+952,Engineer III,352,7/23/2016,7/6/2016,155542.9,33995.71,retirement plan,salary,CNY
+436,Research Associate,496,8/27/2007,1/5/2022,90791.93,17992.28,paid time off,salary,IDR
+357,Editor,104,6/30/2011,11/9/2004,151529.8,12719.2,health insurance,salary,CZK
+489,Help Desk Technician,679,5/1/2016,4/23/2005,188560.85,32985.5,retirement plan,salary,CNY
+147,VP Quality Control,641,10/27/2007,1/30/2015,110787.01,49158.25,retirement plan,hourly,IDR
+81,Information Systems Manager,452,2/13/2017,11/2/2013,149472.5,5112.8,retirement plan,salary,CNY
+532,Developer I,501,8/9/2021,11/8/2012,22599.06,22140.97,health insurance,hourly,EUR
+919,VP Marketing,39,10/21/2004,1/29/2022,118427.83,16447.26,health insurance,salary,BYR
+645,Graphic Designer,556,4/29/2000,8/22/2022,63868.52,24102.79,retirement plan,salary,RUB
+531,Environmental Specialist,603,12/29/2018,3/29/2005,165217.93,5255.24,retirement plan,salary,RUB
+615,Health Coach III,918,12/14/2009,7/20/2017,113711.45,21319.85,retirement plan,hourly,CNY
+587,Payment Adjustment Coordinator,551,7/17/2009,11/3/2009,111775.27,43835.31,health insurance,salary,COP
+67,Research Assistant I,206,11/23/2019,3/26/2013,188670.32,3991.68,health insurance,hourly,UAH
+893,Research Nurse,163,10/21/2021,8/21/2009,182098.15,48020.21,paid time off,salary,DOP
+502,Teacher,658,12/4/2015,12/26/2021,51261.19,37069.11,retirement plan,salary,NGN
+729,Office Assistant III,814,10/15/2014,12/25/2009,166451.28,28520.43,paid time off,salary,PEN
+265,Analyst Programmer,959,10/11/2015,8/2/2013,142593.75,36046.2,paid time off,hourly,EUR
+337,Chief Design Engineer,680,11/14/2015,3/3/2007,125707.67,1690.25,retirement plan,salary,IDR
+3,Senior Financial Analyst,447,4/20/2019,9/16/2017,95655.81,45153.73,retirement plan,salary,IDR
+677,Media Manager I,29,5/10/2011,12/21/2014,80426.4,11937.54,retirement plan,hourly,SEK
+59,Help Desk Technician,294,10/25/2011,6/7/2005,50650.72,12568.67,health insurance,salary,CNY
+863,VP Marketing,283,11/26/2012,8/18/2004,133973.53,6406.78,retirement plan,salary,NOK
+825,Help Desk Operator,238,9/25/2014,1/3/2001,165922.46,47846.0,health insurance,hourly,IDR
+812,Automation Specialist III,85,9/28/2000,1/8/2007,191130.93,44594.6,retirement plan,hourly,CNY
+108,Administrative Assistant IV,473,11/14/2016,8/30/2019,157912.95,14235.74,paid time off,hourly,IDR
+657,Office Assistant III,203,8/17/2017,9/26/2005,163830.94,5729.69,health insurance,salary,CAD
+49,Clinical Specialist,149,11/27/2013,6/2/2005,108027.71,11105.11,health insurance,salary,UAH
+441,Community Outreach Specialist,528,12/30/2011,3/1/2011,101815.79,761.01,paid time off,salary,PLN
+734,Engineer IV,625,11/9/2002,10/3/2012,137959.13,29609.34,retirement plan,salary,IDR
+210,Occupational Therapist,247,7/15/2001,9/27/2003,36844.97,20148.35,paid time off,hourly,BRL
+965,Accountant III,995,3/14/2000,12/24/2011,46900.33,1811.85,retirement plan,hourly,EUR
+792,Structural Analysis Engineer,423,5/8/2015,7/29/2003,130780.64,33943.99,paid time off,hourly,IDR
+484,Electrical Engineer,632,6/2/2018,11/23/2003,90862.57,3696.56,paid time off,hourly,CNY
+342,Statistician I,133,10/3/2010,7/11/2004,73853.69,44944.95,health insurance,salary,CNY
+752,Software Consultant,244,3/2/2018,2/23/2013,164878.92,23203.17,paid time off,salary,SEK
+888,Help Desk Operator,763,6/24/2001,3/9/2009,75938.88,20565.73,paid time off,hourly,PLN
+189,Graphic Designer,583,2/28/2021,1/24/2015,55387.87,8537.64,retirement plan,salary,RUB
+434,Graphic Designer,268,9/1/2020,12/12/2016,130812.34,26166.29,retirement plan,salary,VEF
+197,Sales Representative,330,2/23/2012,8/11/2017,113738.33,29323.76,retirement plan,salary,ARS
+998,Account Representative II,99,11/29/2010,8/8/2000,37672.76,40606.49,retirement plan,hourly,IDR
+638,Technical Writer,680,5/20/2014,9/13/2000,139990.66,34122.11,retirement plan,hourly,TND
+195,VP Sales,320,1/11/2005,7/5/2001,168014.06,12813.01,retirement plan,hourly,USD
+967,Recruiter,128,9/20/2008,11/17/2021,80602.59,11618.5,retirement plan,salary,CNY
+430,Database Administrator I,65,9/14/2004,1/25/2007,75542.46,29379.93,retirement plan,hourly,AFN
+756,Associate Professor,683,6/28/2017,8/19/2010,171393.16,46811.0,paid time off,hourly,CNY
+379,Chief Design Engineer,99,3/8/2005,10/22/2011,47531.77,48336.44,paid time off,hourly,CLP
+400,Recruiter,599,7/12/2007,3/28/2019,176023.46,42280.23,health insurance,hourly,CNY
+203,Electrical Engineer,236,1/18/2021,12/30/2014,49726.69,31292.69,paid time off,hourly,IDR
+481,Senior Financial Analyst,918,11/5/2014,11/26/2013,78244.19,6989.32,paid time off,hourly,IDR
+32,Electrical Engineer,885,4/4/2021,9/1/2022,46963.04,27512.68,paid time off,hourly,CNY
+543,Design Engineer,602,2/16/2002,6/3/2019,70052.29,32419.91,health insurance,hourly,EUR
+846,Sales Associate,842,7/7/2011,12/16/2009,115171.85,6485.89,paid time off,salary,CNY
+323,Programmer Analyst I,188,4/14/2004,11/3/2002,83347.44,48965.48,paid time off,salary,IDR
+330,Marketing Assistant,973,5/28/2016,5/20/2014,167055.87,42999.83,retirement plan,salary,IDR
+899,Office Assistant I,47,1/4/2004,1/20/2022,163757.68,49077.21,retirement plan,salary,IDR
+429,Teacher,633,4/17/2009,12/29/2001,93206.02,11767.16,health insurance,hourly,SAR
+910,Mechanical Systems Engineer,156,2/15/2011,10/21/2019,101838.85,32337.62,retirement plan,hourly,ALL
+273,Pharmacist,283,8/15/2004,4/3/2022,167096.14,40365.8,retirement plan,hourly,ALL
+129,Structural Engineer,148,2/8/2004,2/23/2001,171965.85,28166.36,health insurance,hourly,CNY
+8,Information Systems Manager,116,2/24/2006,4/2/2016,29571.16,39918.62,retirement plan,salary,CZK
+757,Teacher,182,2/27/2006,1/2/2022,188184.76,10378.1,retirement plan,hourly,UZS
+189,Information Systems Manager,873,11/15/2007,12/4/2007,180269.65,6737.94,health insurance,hourly,PLN
+134,Database Administrator III,98,11/15/2010,10/10/2002,116984.52,20176.72,health insurance,salary,EUR
+406,Geologist II,466,9/9/2005,9/3/2014,49885.51,37485.54,health insurance,salary,IDR
+695,Human Resources Assistant I,740,4/16/2021,4/16/2020,21214.5,21866.53,health insurance,salary,ZMW
+745,Food Chemist,234,2/14/2008,3/15/2017,146904.27,5745.69,paid time off,salary,IDR
+723,Paralegal,335,5/22/2000,12/25/2012,50644.85,46813.79,paid time off,hourly,BYR
+401,Chemical Engineer,778,1/8/2009,9/30/2008,91854.42,898.15,retirement plan,hourly,IDR
+281,Assistant Professor,618,5/22/2021,12/3/2009,63315.23,991.66,health insurance,salary,IDR
+264,Programmer II,126,2/18/2017,3/7/2009,125898.02,34952.73,retirement plan,salary,CNY
+241,Quality Control Specialist,33,7/19/2017,8/27/2004,50704.38,26453.29,paid time off,salary,SEK
+906,Operator,958,4/23/2004,3/21/2018,30878.34,4730.54,health insurance,hourly,CNY
+512,Assistant Professor,49,3/24/2010,8/21/2018,198155.86,43027.91,paid time off,salary,CNY
+380,Chemical Engineer,595,12/20/2005,1/8/2005,83622.47,13717.38,paid time off,hourly,COP
+123,Research Assistant IV,498,10/28/2013,10/17/2012,194313.33,13989.11,health insurance,salary,NOK
+403,Internal Auditor,519,6/18/2019,1/14/2011,137005.74,18885.06,health insurance,salary,PEN
+838,Chemical Engineer,621,4/30/2000,3/1/2016,152217.71,39450.09,health insurance,salary,USD
+978,Associate Professor,77,1/15/2022,11/11/2000,118545.9,35279.41,health insurance,salary,COP
+129,GIS Technical Architect,818,9/16/2003,11/22/2001,28836.7,1984.43,health insurance,hourly,CNY
+817,Occupational Therapist,146,9/25/2013,8/19/2021,116792.68,34340.71,health insurance,hourly,TND
+384,Environmental Tech,20,8/10/2019,5/7/2018,158343.28,47423.29,retirement plan,salary,CAD
+890,Graphic Designer,905,8/23/2014,2/20/2014,129632.12,20320.86,health insurance,hourly,JOD
+707,Internal Auditor,45,3/28/2009,7/19/2022,175279.18,23803.15,retirement plan,salary,IDR
+925,Geological Engineer,605,9/18/2003,7/11/2000,87862.31,18933.62,health insurance,hourly,PLN
+960,Web Developer II,52,9/26/2006,7/23/2020,162763.32,22346.6,paid time off,salary,PLN
+636,Quality Engineer,270,2/8/2015,4/8/2001,99790.89,39259.59,health insurance,hourly,RUB
+864,Senior Financial Analyst,41,4/23/2005,4/6/2011,110335.8,34394.52,health insurance,hourly,IDR
+272,Safety Technician IV,597,12/18/2013,2/25/2003,85356.76,8913.73,paid time off,hourly,IDR
+464,Nuclear Power Engineer,14,3/6/2018,10/2/2014,40362.96,33669.36,paid time off,salary,PLN
+446,Marketing Manager,315,9/16/2012,4/15/2001,106719.75,21149.5,health insurance,salary,CNY
+465,Recruiter,693,11/8/2010,10/3/2006,185576.49,39189.04,retirement plan,hourly,CNY
+964,Financial Analyst,39,5/14/2021,7/15/2019,79698.47,15162.81,paid time off,salary,SEK
+29,Speech Pathologist,305,1/3/2002,4/10/2003,104423.21,17601.4,retirement plan,hourly,EUR
+929,Librarian,262,9/15/2005,1/18/2012,88584.78,23063.82,paid time off,salary,CNY
+210,VP Quality Control,159,5/11/2020,12/24/2003,91396.84,37474.91,health insurance,hourly,UAH
+531,Account Coordinator,101,12/25/2013,1/6/2020,31389.04,29771.0,retirement plan,salary,IDR
+803,General Manager,240,8/28/2008,11/30/2013,66338.56,26787.81,paid time off,hourly,PKR
+722,Account Executive,813,10/29/2019,1/3/2004,113662.16,4112.89,paid time off,hourly,RUB
+804,Business Systems Development Analyst,357,5/12/2002,6/28/2022,62928.56,5835.88,health insurance,hourly,ARS
+514,Budget/Accounting Analyst IV,593,10/30/2008,10/7/2006,132336.25,39528.0,retirement plan,salary,HNL
+866,VP Quality Control,453,9/30/2016,9/29/2005,141847.12,10503.87,retirement plan,hourly,IDR
+468,Legal Assistant,878,3/8/2005,5/14/2015,60642.08,5965.69,retirement plan,salary,EUR
+227,Civil Engineer,162,8/2/2007,8/23/2002,38353.04,30034.27,health insurance,hourly,ARS
+135,Administrative Assistant I,939,12/24/2004,9/14/2000,141157.46,6358.02,health insurance,hourly,GEL
+562,Software Engineer I,495,9/29/2017,11/1/2019,72589.19,29676.94,health insurance,hourly,CNY
+414,Environmental Tech,972,4/21/2017,8/28/2009,178210.38,44113.25,health insurance,hourly,CNY
+588,Editor,207,7/3/2006,4/15/2014,198779.36,482.49,health insurance,salary,ILS
+962,Project Manager,152,2/16/2011,9/17/2003,145738.62,16331.17,retirement plan,hourly,PHP
+557,Professor,574,6/14/2010,1/6/2007,26420.04,12717.65,health insurance,salary,CNY
+36,Chemical Engineer,872,3/18/2021,1/24/2014,146419.88,22296.58,health insurance,salary,EUR
+101,Associate Professor,922,11/29/2005,1/15/2020,56976.53,47992.39,paid time off,salary,EUR
+428,Assistant Manager,586,10/27/2012,7/22/2019,53950.45,49289.8,paid time off,hourly,JPY
+708,Information Systems Manager,674,10/25/2002,10/13/2002,33832.12,26531.77,health insurance,hourly,SEK
+733,Design Engineer,398,8/15/2010,11/10/2017,23932.95,7472.19,health insurance,salary,CNY
+967,Cost Accountant,372,9/13/2000,2/25/2003,134649.94,4989.89,paid time off,salary,CNY
+294,Senior Developer,376,4/30/2017,10/31/2005,98856.0,31187.59,paid time off,salary,USD
+293,Safety Technician I,363,1/14/2016,4/30/2009,65956.31,8119.23,health insurance,salary,HUF
+91,VP Accounting,190,6/14/2002,11/15/2002,183044.08,17075.46,health insurance,salary,THB
+764,Mechanical Systems Engineer,852,12/11/2000,11/1/2012,108304.84,28208.29,health insurance,hourly,RUB
+704,Pharmacist,900,1/24/2012,4/13/2013,82594.85,40423.21,retirement plan,hourly,EUR
+222,Engineer IV,177,12/3/2015,5/5/2014,20581.26,38440.38,retirement plan,salary,SYP
+217,Environmental Tech,490,9/1/2003,2/5/2002,21665.54,35169.69,retirement plan,salary,CLP
+195,Assistant Media Planner,596,11/15/2009,5/6/2009,136530.07,29566.51,retirement plan,salary,ALL
+475,Director of Sales,952,3/26/2022,1/8/2007,154406.65,41270.42,paid time off,salary,EUR
+141,Data Coordinator,281,5/7/2000,10/24/2020,86423.73,40995.03,retirement plan,salary,CNY
+914,Product Engineer,291,12/15/2018,5/9/2005,55055.12,14832.51,health insurance,salary,EUR
+657,Senior Developer,682,4/9/2022,3/15/2015,171439.63,21881.0,retirement plan,hourly,COP
+365,Automation Specialist III,165,4/12/2014,12/11/2018,97898.27,11508.32,health insurance,hourly,PGK
+178,Physical Therapy Assistant,756,3/29/2011,5/29/2003,183061.65,28893.79,health insurance,hourly,CNY
+434,Editor,36,11/10/2007,7/28/2018,188069.01,3602.94,health insurance,salary,IDR
+333,Administrative Officer,331,3/27/2016,1/23/2010,103176.29,26174.49,retirement plan,hourly,COP
+134,Computer Systems Analyst II,447,5/26/2009,12/3/2010,178811.37,16280.24,health insurance,salary,ILS
+406,Social Worker,367,7/13/2003,3/15/2018,107267.73,43334.79,retirement plan,salary,PHP
+998,Financial Advisor,214,1/1/2005,12/9/2003,119754.76,11992.6,health insurance,salary,CNY
+793,Recruiter,536,6/13/2017,1/10/2005,156169.09,40406.59,retirement plan,hourly,QAR
+934,Research Associate,264,2/3/2001,11/20/2018,153570.44,19013.32,retirement plan,hourly,IDR
+753,Administrative Officer,423,2/13/2008,9/16/2007,187559.87,30842.89,retirement plan,salary,RUB
+47,Accounting Assistant I,431,3/2/2002,2/4/2009,72438.53,6611.18,paid time off,salary,CNY
+626,Programmer IV,219,8/13/2017,4/8/2005,97607.29,10086.99,health insurance,salary,COP
+707,Research Assistant III,508,3/28/2022,12/27/2012,110976.1,44536.57,retirement plan,salary,EUR
+164,Database Administrator I,257,10/11/2021,4/9/2018,179771.52,7938.78,paid time off,salary,PHP
+553,Human Resources Assistant I,878,4/30/2011,5/5/2005,94366.0,48690.99,paid time off,hourly,CNY
+427,Research Assistant II,238,1/8/2005,3/9/2016,172926.3,8250.13,retirement plan,salary,MYR
+4,Operator,979,4/23/2004,12/21/2007,134133.5,35933.74,paid time off,salary,CNY
+586,Health Coach III,873,10/22/2004,6/28/2008,50794.72,9719.39,paid time off,hourly,CZK
+481,VP Accounting,786,5/12/2008,2/23/2000,24277.32,20793.17,retirement plan,hourly,MUR
+439,Systems Administrator III,335,7/4/2010,3/8/2019,163876.21,33051.77,paid time off,salary,CZK
+730,Administrative Assistant III,858,12/5/2012,4/25/2000,33690.54,48646.39,paid time off,salary,CZK
+839,Chemical Engineer,239,11/28/2022,8/11/2019,81620.76,8506.94,retirement plan,hourly,IDR
+900,Associate Professor,630,5/25/2012,1/2/2014,25171.09,48245.81,retirement plan,salary,IDR
+441,Quality Control Specialist,415,4/27/2022,1/7/2016,187722.26,36617.31,retirement plan,hourly,CNY
+912,VP Marketing,936,1/19/2006,12/21/2003,154831.73,47267.69,health insurance,salary,BAM
+664,Marketing Assistant,853,9/7/2002,12/2/2004,149549.12,41321.22,retirement plan,salary,PLN
+747,Accounting Assistant III,829,9/30/2020,1/24/2004,23141.56,35175.54,paid time off,hourly,CNY
+688,Programmer IV,735,4/9/2017,8/30/2011,30393.27,20371.31,retirement plan,hourly,IDR
+719,Design Engineer,782,1/16/2018,6/23/2022,194666.33,11553.25,paid time off,salary,SEK
+143,Accounting Assistant IV,267,5/20/2005,6/3/2008,127300.99,44523.43,health insurance,hourly,IDR
+569,Help Desk Technician,902,11/19/2013,10/5/2006,164874.41,19641.05,health insurance,hourly,IDR
+718,Senior Sales Associate,835,11/4/2015,11/15/2016,77737.32,37048.83,paid time off,salary,CNY
+948,Accounting Assistant II,241,11/25/2016,6/8/2016,29299.28,15299.18,health insurance,salary,BRL
+885,Automation Specialist I,919,2/24/2021,10/1/2017,41911.23,41854.56,health insurance,hourly,CNY
+863,VP Sales,596,1/12/2002,5/14/2010,127822.15,4901.35,retirement plan,hourly,KPW
+473,Biostatistician II,984,4/19/2000,12/17/2009,72314.27,36329.41,retirement plan,salary,EUR
+885,Pharmacist,958,3/23/2000,5/5/2022,152452.62,21486.51,health insurance,salary,BGN
+101,Geologist II,141,1/6/2016,3/10/2012,50012.42,45665.62,health insurance,salary,CNY
+867,General Manager,473,2/25/2018,10/26/2007,168499.24,20628.11,health insurance,hourly,CAD
+254,Database Administrator I,30,5/3/2007,1/1/2018,189397.89,11159.61,retirement plan,salary,PHP
+98,Internal Auditor,502,3/18/2020,6/4/2019,80408.55,30012.43,paid time off,salary,PHP
+476,Systems Administrator II,524,9/19/2012,7/28/2012,22114.09,20495.3,retirement plan,hourly,MGA
+790,VP Quality Control,305,8/19/2022,2/5/2005,136253.35,17391.5,paid time off,hourly,EUR
+246,Account Representative II,703,10/5/2014,6/25/2001,104117.16,528.5,health insurance,salary,EUR
+687,Internal Auditor,411,11/3/2013,8/20/2000,83224.44,16929.15,retirement plan,salary,KRW
+145,Operator,620,7/24/2006,8/14/2016,133333.48,44179.58,retirement plan,salary,PLN
+847,Recruiter,191,1/10/2015,4/3/2001,37493.01,5672.71,retirement plan,hourly,CNY
+265,Speech Pathologist,493,12/18/2022,4/21/2005,134143.99,44315.95,health insurance,hourly,CNY
+963,Mechanical Systems Engineer,839,5/31/2017,9/15/2020,66454.42,32688.37,paid time off,hourly,PHP
+496,Budget/Accounting Analyst III,229,7/16/2008,4/3/2007,144802.3,9131.78,health insurance,hourly,IDR
+701,Marketing Manager,851,3/8/2012,2/18/2011,131335.99,41783.16,health insurance,salary,BAM
+490,Recruiting Manager,438,6/22/2003,5/28/2020,55918.87,11818.08,retirement plan,hourly,NGN
+589,Nuclear Power Engineer,473,11/17/2011,11/28/2005,37450.38,43529.61,health insurance,hourly,EUR
+566,Clinical Specialist,425,6/8/2010,8/27/2018,63101.31,24140.24,health insurance,salary,CNY
+712,Sales Representative,308,10/26/2022,8/31/2020,80578.34,42623.49,retirement plan,hourly,JPY
+841,Design Engineer,316,2/5/2004,1/28/2012,109183.22,36113.18,paid time off,salary,PEN
+694,Nurse,462,3/7/2020,9/10/2019,36277.77,30627.01,health insurance,salary,IDR
+787,Librarian,458,8/5/2012,12/25/2014,187828.08,9324.39,retirement plan,salary,CNY
+189,Computer Systems Analyst IV,86,2/27/2007,3/19/2008,27422.42,48646.21,paid time off,salary,UGX
+690,Director of Sales,524,9/24/2013,12/2/2016,110345.92,29749.02,paid time off,hourly,PHP
+799,Environmental Specialist,908,7/10/2001,3/30/2021,92803.98,31995.8,health insurance,salary,CNY
+427,Web Developer IV,179,9/6/2021,6/19/2002,27006.01,15013.74,retirement plan,hourly,PEN
+789,Software Engineer III,57,9/27/2010,9/17/2001,178946.33,16016.79,retirement plan,salary,USD
+907,GIS Technical Architect,428,7/4/2005,1/7/2022,125956.22,12091.93,paid time off,salary,CNY
+225,Account Executive,691,5/7/2005,2/2/2007,141558.82,32746.68,paid time off,salary,CNY
+609,Assistant Manager,970,10/26/2017,2/3/2014,103686.29,23603.18,paid time off,salary,EUR
+885,Information Systems Manager,873,10/24/2021,9/17/2013,110562.79,10934.63,health insurance,salary,PYG
+461,Civil Engineer,380,3/21/2008,1/21/2007,165342.55,30276.53,health insurance,hourly,AUD
+528,Assistant Manager,778,1/20/2014,9/11/2001,119483.92,45775.52,health insurance,hourly,ARS
+474,Professor,426,4/9/2000,7/28/2017,177121.1,10793.44,paid time off,hourly,JPY
+710,Paralegal,640,9/15/2017,8/22/2000,71704.7,43509.85,paid time off,hourly,HRK
+328,Electrical Engineer,105,6/22/2020,10/9/2005,170060.28,13570.15,paid time off,hourly,SDG
+28,Assistant Manager,234,3/29/2019,3/23/2003,66714.85,19973.27,paid time off,hourly,USD
+127,Quality Control Specialist,961,10/19/2011,6/11/2000,83079.07,26791.63,health insurance,salary,HRK
+454,Nurse Practicioner,311,7/13/2009,4/11/2013,183835.34,34831.56,paid time off,hourly,IDR
+887,Safety Technician III,211,11/2/2011,8/16/2017,169302.17,35402.04,paid time off,hourly,UAH
+408,Administrative Assistant IV,296,2/25/2015,5/14/2004,28010.47,27847.01,retirement plan,hourly,TND
+817,Information Systems Manager,579,9/13/2015,5/10/2002,165021.54,1570.0,health insurance,salary,IDR
+833,Engineer IV,668,8/16/2022,10/30/2019,173435.55,17096.9,health insurance,hourly,NIO
+678,Safety Technician III,674,3/18/2010,6/27/2020,94484.37,23414.52,retirement plan,hourly,USD
+130,Nurse Practicioner,712,9/16/2009,12/11/2002,172556.48,43129.06,paid time off,hourly,DKK
+234,Assistant Professor,813,10/29/2012,11/18/2013,101221.34,8517.42,health insurance,hourly,CNY
+642,Safety Technician III,650,1/22/2019,1/4/2021,122754.64,22794.83,health insurance,hourly,PLN
+177,Business Systems Development Analyst,747,1/21/2005,9/12/2012,97833.21,24776.32,health insurance,hourly,EUR
+700,Civil Engineer,18,1/6/2003,2/4/2012,104502.15,46796.99,retirement plan,hourly,CZK
+343,GIS Technical Architect,604,6/22/2006,4/23/2017,148801.2,36012.53,paid time off,salary,CNY
+376,VP Marketing,349,10/23/2001,12/12/2014,58490.64,12005.69,health insurance,hourly,EUR
+632,Speech Pathologist,891,2/6/2020,1/27/2017,176936.69,37469.82,health insurance,salary,CNY
+497,Structural Engineer,882,1/6/2010,10/17/2012,197932.17,38111.92,retirement plan,salary,CZK
+903,Systems Administrator IV,704,10/31/2000,2/16/2020,125470.86,2312.22,retirement plan,salary,SEK
+891,Financial Analyst,606,3/22/2003,3/1/2008,152870.81,36833.02,paid time off,salary,MYR
+829,Professor,327,12/23/2022,11/15/2002,113219.06,13451.26,paid time off,salary,CNY
+235,Professor,131,9/3/2013,6/3/2015,90493.62,4615.75,retirement plan,hourly,EUR
+736,Recruiter,661,12/11/2019,1/26/2018,88886.71,42299.11,paid time off,salary,EUR
+290,VP Marketing,149,9/8/2005,8/13/2009,50453.3,36332.54,paid time off,salary,RUB
+144,Automation Specialist I,19,9/30/2017,11/26/2015,92791.59,41432.61,retirement plan,salary,RUB
+212,Operator,67,2/11/2009,2/5/2022,157224.17,21028.44,retirement plan,salary,RUB
+981,Staff Accountant I,685,1/11/2012,3/14/2021,193693.03,34402.16,retirement plan,hourly,PLN
+151,VP Quality Control,322,12/25/2010,1/7/2009,109640.74,39815.34,health insurance,hourly,IDR
+184,Accounting Assistant IV,727,10/17/2001,1/18/2009,67494.41,6401.08,retirement plan,salary,IDR
+760,Senior Developer,237,1/19/2008,4/26/2022,48762.01,49744.53,health insurance,hourly,PHP
+40,Quality Control Specialist,908,8/26/2010,4/27/2002,62635.71,29170.95,paid time off,salary,RUB
+552,Compensation Analyst,262,2/22/2004,1/16/2022,45110.94,48863.73,health insurance,salary,PLN
+701,Statistician IV,609,9/5/2015,12/20/2022,126706.54,28620.31,health insurance,salary,CNY
+860,Staff Accountant III,182,9/1/2005,9/15/2008,135327.93,48510.72,paid time off,salary,EUR
+131,Staff Accountant IV,194,2/24/2005,3/7/2007,43757.05,33917.62,health insurance,salary,CAD
+459,Social Worker,391,6/26/2017,9/9/2015,142330.09,35278.98,paid time off,salary,EUR
+140,Geologist II,27,2/8/2014,7/14/2007,136175.17,30279.66,paid time off,salary,XOF
+586,Food Chemist,35,3/26/2019,8/28/2002,123611.82,44053.93,health insurance,salary,SEK
+95,VP Accounting,495,3/8/2012,10/16/2006,88985.28,1548.82,retirement plan,hourly,JPY
+121,GIS Technical Architect,867,7/1/2002,4/4/2004,145658.29,33301.14,retirement plan,hourly,CZK
+229,Account Executive,894,6/15/2008,6/24/2017,30041.93,1227.26,retirement plan,salary,NGN
+386,Software Consultant,296,1/14/2005,12/2/2004,150967.45,37144.89,health insurance,hourly,IDR
+556,Help Desk Technician,625,11/2/2001,5/11/2003,30813.78,40416.44,retirement plan,salary,CNY
+18,Product Engineer,64,5/27/2017,10/17/2021,192865.0,45047.67,retirement plan,salary,PHP
+922,Senior Quality Engineer,300,1/22/2010,11/3/2011,181142.06,6881.69,health insurance,salary,HNL
+182,Financial Advisor,108,4/25/2009,10/24/2013,87709.84,13859.6,retirement plan,salary,KRW
+923,Safety Technician III,1000,12/16/2012,9/5/2011,60325.27,1339.26,retirement plan,salary,PHP
+891,Budget/Accounting Analyst I,447,3/31/2005,10/2/2011,134703.02,42799.52,retirement plan,hourly,PKR
+279,Administrative Assistant IV,641,11/16/2012,3/19/2017,131303.09,48109.1,paid time off,hourly,CNY
+356,Geological Engineer,577,7/30/2012,8/15/2013,124827.7,20204.29,paid time off,salary,RSD
+821,Engineer I,549,4/25/2008,10/15/2015,36249.56,31004.96,retirement plan,salary,PHP
+186,Environmental Specialist,80,5/9/2021,9/7/2007,164819.3,684.23,paid time off,hourly,IDR
+842,Safety Technician I,426,8/25/2004,12/30/2011,173969.93,29941.13,health insurance,hourly,CNY
+202,Food Chemist,859,4/28/2017,8/9/2007,63110.58,24203.71,retirement plan,salary,IDR
+884,Environmental Specialist,35,1/9/2003,4/19/2001,129050.52,28098.12,health insurance,salary,EUR
+538,Senior Financial Analyst,842,4/3/2019,5/11/2006,166434.85,18165.85,paid time off,hourly,CNY
+148,Senior Financial Analyst,815,8/2/2016,4/14/2009,172381.21,35805.34,paid time off,hourly,PHP
+206,Systems Administrator IV,588,4/5/2015,8/26/2003,72578.25,18870.34,retirement plan,salary,THB
+283,Speech Pathologist,702,9/23/2002,3/8/2015,150464.56,39613.32,health insurance,hourly,EUR
+632,Staff Accountant III,300,12/3/2009,4/20/2020,63251.06,46460.51,retirement plan,salary,SEK
+976,Senior Developer,495,1/5/2013,1/14/2011,51214.94,10587.89,paid time off,salary,SEK
+984,Compensation Analyst,537,11/21/2008,3/16/2000,64715.74,2468.93,paid time off,salary,NOK
+424,Nuclear Power Engineer,205,3/6/2019,1/29/2006,138087.09,1935.62,paid time off,salary,PLN
+26,Occupational Therapist,993,6/23/2020,5/26/2013,54574.65,49230.53,health insurance,salary,PEN
+724,VP Sales,693,10/30/2008,5/5/2002,87298.65,32392.46,paid time off,salary,USD
+553,Research Assistant IV,820,2/18/2020,4/22/2011,88881.83,25866.89,health insurance,hourly,EUR
