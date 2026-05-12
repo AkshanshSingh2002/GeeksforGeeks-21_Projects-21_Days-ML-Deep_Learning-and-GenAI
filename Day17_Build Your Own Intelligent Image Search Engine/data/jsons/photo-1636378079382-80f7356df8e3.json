@@ -1,0 +1,41 @@
+{
+    "file_path": "D:\\GeeksforGeeks-21_Projects-21_Days-ML-Deep_Learning-and-GenAI\\Day17_Build Your Own Intelligent Image Search Engine\\data\\images\\photo-1636378079382-80f7356df8e3.jpg",
+    "description": {
+        "main_subject": "Historic castle complex",
+        "detailed_description": "An aerial view captures a grand historic castle complex nestled atop a lush, tree-covered hill, overlooking a charming town spread across a valley. The scene is illuminated by the warm, soft glow of golden hour sunlight, highlighting the castle's architecture and creating a tranquil, majestic atmosphere against a backdrop of distant mountains.",
+        "visual_elements": [
+            "Castle",
+            "Fortress",
+            "Towers",
+            "Castle walls",
+            "Forest",
+            "Trees",
+            "Town",
+            "Buildings",
+            "Houses",
+            "Streets",
+            "Mountains",
+            "Valley",
+            "Church",
+            "Flag"
+        ],
+        "text_content": null,
+        "search_keywords": [
+            "castle",
+            "fortress",
+            "historic architecture",
+            "aerial view",
+            "European landscape",
+            "mountain town",
+            "forest",
+            "golden hour",
+            "medieval",
+            "tourism",
+            "landmark",
+            "valley",
+            "drone shot",
+            "alpine",
+            "heritage"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "file_path": "D:\\GeeksforGeeks-21_Projects-21_Days-ML-Deep_Learning-and-GenAI\\Day17_Build Your Own Intelligent Image Search Engine\\data\\images\\premium_photo-1682390303230-6906ba221281.jpg",
+    "description": {
+        "main_subject": "Two people walking away from a tent in a natural landscape",
+        "detailed_description": "A view from inside an open orange and white tent shows two people walking away into a sunlit, grassy landscape dotted with pine trees. The bright natural light casts distinct shadows on the ground under a clear blue sky, evoking a serene and adventurous mood.",
+        "visual_elements": [
+            "Tent interior",
+            "Orange tent flap",
+            "White tent fabric",
+            "Two people",
+            "Man",
+            "Woman",
+            "Pine trees",
+            "Grassy field",
+            "Blue sky",
+            "Pine needles",
+            "Sleeping pad",
+            "Green bag"
+        ],
+        "text_content": null,
+        "search_keywords": [
+            "camping",
+            "outdoors",
+            "nature",
+            "adventure",
+            "hiking",
+            "couple",
+            "tent",
+            "pine trees",
+            "wilderness",
+            "sunny",
+            "exploration",
+            "campsite",
+            "serene",
+            "summer",
+            "walking"
+        ]
+    }
+}

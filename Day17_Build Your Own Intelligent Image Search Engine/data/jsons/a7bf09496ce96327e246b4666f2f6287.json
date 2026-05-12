@@ -1,0 +1,39 @@
+{
+    "file_path": "D:\\GeeksforGeeks-21_Projects-21_Days-ML-Deep_Learning-and-GenAI\\Day17_Build Your Own Intelligent Image Search Engine\\data\\images\\a7bf09496ce96327e246b4666f2f6287.jpg",
+    "description": {
+        "main_subject": "KTM Super Duke R motorcycle",
+        "detailed_description": "A high-performance black and orange naked motorcycle is prominently displayed, parked on a patch of green grass covered with scattered autumn leaves. The natural lighting softly illuminates the bike's intricate details and iridescent exhaust, creating a vibrant yet calm atmosphere in a park-like setting.",
+        "visual_elements": [
+            "Motorcycle",
+            "KTM Super Duke R",
+            "Black paint",
+            "Orange frame",
+            "Iridescent exhaust pipes",
+            "Akrapovic muffler",
+            "LED headlights",
+            "Motorcycle wheels",
+            "Brake discs",
+            "Green grass",
+            "Autumn leaves",
+            "Trees"
+        ],
+        "text_content": "KTM, SUPER DUKE R, AKRAPOVIC",
+        "search_keywords": [
+            "motorcycle",
+            "sportbike",
+            "naked bike",
+            "KTM",
+            "Super Duke R",
+            "black and orange",
+            "Akrapovic exhaust",
+            "autumn",
+            "fall foliage",
+            "park",
+            "outdoor",
+            "performance vehicle",
+            "custom bike",
+            "two-wheeler",
+            "street bike"
+        ]
+    }
+}

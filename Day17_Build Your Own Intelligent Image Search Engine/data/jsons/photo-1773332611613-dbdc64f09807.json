@@ -1,0 +1,41 @@
+{
+    "file_path": "D:\\GeeksforGeeks-21_Projects-21_Days-ML-Deep_Learning-and-GenAI\\Day17_Build Your Own Intelligent Image Search Engine\\data\\images\\photo-1773332611613-dbdc64f09807.jpg",
+    "description": {
+        "main_subject": "Woman potting a plant",
+        "detailed_description": "A woman with curly hair is crouching on a porch, carefully transferring a small plant from her gloved hands into a larger white pot. Sunlight illuminates the scene, casting soft shadows and highlighting the green foliage and the wooden fence. The mood is calm and focused on the gardening activity.",
+        "visual_elements": [
+            "Woman",
+            "Plant",
+            "White planter",
+            "Grey planter",
+            "Gardening gloves",
+            "Spilled soil",
+            "Smartphone",
+            "Wooden slatted fence",
+            "Door",
+            "Window",
+            "Green wall",
+            "Outdoor foliage",
+            "Yellow bag",
+            "Doormat"
+        ],
+        "text_content": null,
+        "search_keywords": [
+            "gardening",
+            "potting plants",
+            "woman",
+            "outdoor activity",
+            "home garden",
+            "plant care",
+            "repotting",
+            "porch",
+            "hobby",
+            "greenery",
+            "lifestyle",
+            "domestic life",
+            "sunny day",
+            "crouching",
+            "hands"
+        ]
+    }
+}

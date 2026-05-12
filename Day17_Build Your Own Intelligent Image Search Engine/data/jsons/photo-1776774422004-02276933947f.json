@@ -1,0 +1,37 @@
+{
+    "file_path": "D:\\GeeksforGeeks-21_Projects-21_Days-ML-Deep_Learning-and-GenAI\\Day17_Build Your Own Intelligent Image Search Engine\\data\\images\\photo-1776774422004-02276933947f.jpg",
+    "description": {
+        "main_subject": "Gran V\u00eda street in Madrid with the Capitol Building",
+        "detailed_description": "An elevated view captures the bustling Gran V\u00eda street in Madrid, featuring the iconic Capitol Building with its prominent Schweppes sign. The street below is filled with a mix of cars, blue buses, and numerous pedestrians crossing at an intersection. Bright daylight illuminates the scene, casting clear shadows and highlighting the vibrant urban activity.",
+        "visual_elements": [
+            "Capitol Building",
+            "Schweppes sign",
+            "Gran V\u00eda street",
+            "Cars",
+            "Buses",
+            "Pedestrians",
+            "Skyscrapers",
+            "Urban architecture",
+            "Traffic",
+            "Crosswalk"
+        ],
+        "text_content": "CAPITOL\nSchweppes",
+        "search_keywords": [
+            "Madrid",
+            "Gran V\u00eda",
+            "Capitol Building",
+            "Schweppes",
+            "cityscape",
+            "urban",
+            "street scene",
+            "Spain",
+            "Europe",
+            "tourism",
+            "landmark",
+            "daytime",
+            "traffic",
+            "pedestrians",
+            "architecture"
+        ]
+    }
+}

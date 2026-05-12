@@ -1,0 +1,36 @@
+{
+    "file_path": "D:\\GeeksforGeeks-21_Projects-21_Days-ML-Deep_Learning-and-GenAI\\Day17_Build Your Own Intelligent Image Search Engine\\data\\images\\photo-1770037368271-ae68da18848b.jpg",
+    "description": {
+        "main_subject": "Venetian gondolas at sunset/sunrise",
+        "detailed_description": "Several traditional black gondolas are moored along a stone quayside in a Venetian canal. The sun is low on the horizon, casting a warm, golden glow that reflects on the rippling water and illuminates the historic buildings lining the opposite bank. The scene conveys a tranquil and iconic atmosphere of Venice.",
+        "visual_elements": [
+            "Gondolas",
+            "Canal",
+            "Water",
+            "Historic buildings",
+            "Quayside",
+            "Mooring poles",
+            "Sunlight",
+            "Sky",
+            "Reflections"
+        ],
+        "text_content": null,
+        "search_keywords": [
+            "Venice",
+            "Italy",
+            "gondola",
+            "canal",
+            "sunset",
+            "sunrise",
+            "travel",
+            "tourism",
+            "historic",
+            "architecture",
+            "cityscape",
+            "moored boats",
+            "waterfront",
+            "picturesque",
+            "European city"
+        ]
+    }
+}

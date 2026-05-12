@@ -1,0 +1,39 @@
+{
+    "file_path": "D:\\GeeksforGeeks-21_Projects-21_Days-ML-Deep_Learning-and-GenAI\\Day17_Build Your Own Intelligent Image Search Engine\\data\\images\\photo-1773414001281-7e1cadd04a79.jpg",
+    "description": {
+        "main_subject": "Urban street scene with people and motorbikes",
+        "detailed_description": "A vibrant street scene unfolds in a sunlit urban environment, featuring a scooter carrying two individuals moving away from the viewer down a narrow road. The street is flanked by multi-story buildings adorned with plants and awnings, with numerous parked motorbikes lining the sidewalks. Bright natural light illuminates the scene, creating a lively and authentic atmosphere of daily city life.",
+        "visual_elements": [
+            "Scooter",
+            "Motorbikes",
+            "People",
+            "Urban street",
+            "Buildings",
+            "Awnings",
+            "Greenery",
+            "Trees",
+            "Street markings",
+            "Umbrella",
+            "Blue stool",
+            "Modern glass building"
+        ],
+        "text_content": null,
+        "search_keywords": [
+            "Urban street",
+            "City life",
+            "Scooter",
+            "Motorbike",
+            "Southeast Asia",
+            "Vietnam",
+            "Daily commute",
+            "Bustling",
+            "Old buildings",
+            "Greenery",
+            "Daytime",
+            "Street scene",
+            "Transportation",
+            "Pedestrians",
+            "Alleyway"
+        ]
+    }
+}

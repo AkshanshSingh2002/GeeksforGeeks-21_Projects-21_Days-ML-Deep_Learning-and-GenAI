@@ -1,0 +1,45 @@
+{
+    "file_path": "D:\\GeeksforGeeks-21_Projects-21_Days-ML-Deep_Learning-and-GenAI\\Day17_Build Your Own Intelligent Image Search Engine\\data\\images\\photo-1773332598451-8a0a59941912.jpg",
+    "description": {
+        "main_subject": "Young adult working or studying on a bed",
+        "detailed_description": "A young adult lies comfortably on a bed, engaged with a tablet and stylus, surrounded by various personal items and tech gadgets. Warm, natural sunlight streams into the room, casting long shadows and highlighting the textured bedding. The scene conveys a sense of focused productivity and relaxed comfort in a personal space.",
+        "visual_elements": [
+            "Person",
+            "Bed",
+            "Pillows",
+            "Tablet",
+            "Stylus",
+            "Laptop",
+            "Backpack",
+            "Notebooks",
+            "Bowl of popcorn",
+            "Food container",
+            "Pastries",
+            "Instant camera",
+            "Bedside table",
+            "Table lamp",
+            "Candle",
+            "Wall decor",
+            "Sunlight",
+            "Blankets"
+        ],
+        "text_content": "thank you for being so lovely to me, you're a star, make a wish, instax mini",
+        "search_keywords": [
+            "young adult",
+            "student",
+            "remote work",
+            "bedroom",
+            "cozy",
+            "technology",
+            "tablet",
+            "laptop",
+            "creative",
+            "sunlight",
+            "snacks",
+            "relaxation",
+            "productivity",
+            "home",
+            "casual"
+        ]
+    }
+}

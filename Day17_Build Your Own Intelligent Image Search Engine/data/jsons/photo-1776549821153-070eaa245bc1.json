@@ -1,0 +1,35 @@
+{
+    "file_path": "D:\\GeeksforGeeks-21_Projects-21_Days-ML-Deep_Learning-and-GenAI\\Day17_Build Your Own Intelligent Image Search Engine\\data\\images\\photo-1776549821153-070eaa245bc1.jpg",
+    "description": {
+        "main_subject": "Tower Bridge",
+        "detailed_description": "Tower Bridge stands majestically over the River Thames, captured from a low angle on a rocky foreshore. The water exhibits a smooth, ethereal quality due to a long exposure, reflecting the soft, muted light of the sky. The scene conveys a serene and iconic urban landscape.",
+        "visual_elements": [
+            "Tower Bridge",
+            "River Thames",
+            "Rocky foreshore",
+            "Stone towers",
+            "Suspension cables",
+            "Bridge roadway",
+            "Muted sky",
+            "City skyline"
+        ],
+        "text_content": null,
+        "search_keywords": [
+            "Tower Bridge",
+            "London",
+            "River Thames",
+            "Landmark",
+            "Architecture",
+            "Historic bridge",
+            "Iconic",
+            "Cityscape",
+            "Long exposure",
+            "Urban",
+            "Travel",
+            "England",
+            "Twilight",
+            "Serene",
+            "Victorian architecture"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "file_path": "D:\\GeeksforGeeks-21_Projects-21_Days-ML-Deep_Learning-and-GenAI\\Day17_Build Your Own Intelligent Image Search Engine\\data\\images\\photo-1770355302457-10d2b94c2220.jpg",
+    "description": {
+        "main_subject": "Person walking in an urban street",
+        "detailed_description": "A person walks away from the camera down a sun-drenched urban street, casting a long shadow. Strong, directional sunlight illuminates the yellow and grey buildings, creating high contrast between bright facades and deep shadows on the asphalt. The scene evokes a quiet, everyday moment in a bustling city.",
+        "visual_elements": [
+            "Person",
+            "Urban street",
+            "Buildings",
+            "Power lines",
+            "Shadows",
+            "Shop awning",
+            "Traffic cones",
+            "Bicycle",
+            "Satellite dish",
+            "Windows",
+            "Bush",
+            "Signboard",
+            "Orange door"
+        ],
+        "text_content": "Le Chapeau\nCinderella",
+        "search_keywords": [
+            "urban",
+            "city street",
+            "walking",
+            "sunlight",
+            "shadows",
+            "architecture",
+            "power lines",
+            "Japan",
+            "person",
+            "building",
+            "shop",
+            "Cinderella",
+            "traffic cone",
+            "everyday life",
+            "high contrast"
+        ]
+    }
+}

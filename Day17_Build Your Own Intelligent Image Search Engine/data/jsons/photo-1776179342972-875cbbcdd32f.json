@@ -1,0 +1,40 @@
+{
+    "file_path": "D:\\GeeksforGeeks-21_Projects-21_Days-ML-Deep_Learning-and-GenAI\\Day17_Build Your Own Intelligent Image Search Engine\\data\\images\\photo-1776179342972-875cbbcdd32f.jpg",
+    "description": {
+        "main_subject": "European canal scene with bicycles on a bridge",
+        "detailed_description": "The image captures a tranquil canal scene on an overcast day, with bicycles prominently parked on a bridge in the foreground. A waterway extends into the distance, flanked by traditional brick buildings and trees with fresh green leaves. Numerous boats are moored along the canal, and cars are parked on the adjacent streets, contributing to a calm urban atmosphere.",
+        "visual_elements": [
+            "Bicycle",
+            "Bridge",
+            "Canal",
+            "Boats",
+            "Traditional buildings",
+            "Trees",
+            "Street",
+            "Parked cars",
+            "Bridge railing",
+            "Pillar",
+            "Overcast sky",
+            "Water reflection",
+            "Brown bicycle seat"
+        ],
+        "text_content": "B",
+        "search_keywords": [
+            "canal",
+            "bicycle",
+            "bridge",
+            "cityscape",
+            "urban",
+            "Europe",
+            "spring",
+            "architecture",
+            "boat",
+            "trees",
+            "water",
+            "travel",
+            "overcast",
+            "tranquil",
+            "Amsterdam"
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "file_path": "D:\\GeeksforGeeks-21_Projects-21_Days-ML-Deep_Learning-and-GenAI\\Day17_Build Your Own Intelligent Image Search Engine\\data\\images\\fdbbfadcd52b54dda496d2f61e7151a7.jpg",
+    "description": {
+        "main_subject": "Black KTM Duke motorcycle",
+        "detailed_description": "A sleek black naked sportbike, identified as a KTM Duke, is prominently displayed while parked on a reddish-brown brick-paved surface. Its bright LED headlights are illuminated, casting a cool glow that contrasts with the dark body and the soft, natural lighting of the scene. The background features a warm-toned brick building with white architectural pillars and window frames, creating a modern urban aesthetic.",
+        "visual_elements": [
+            "Black motorcycle",
+            "Naked sportbike",
+            "KTM Duke",
+            "LED headlights",
+            "Motorcycle tires",
+            "Disc brakes",
+            "Exhaust system",
+            "Motorcycle seat",
+            "Handlebars",
+            "Brick paving",
+            "Brick building",
+            "White pillars",
+            "Window frame",
+            "Tree foliage"
+        ],
+        "text_content": "DUKE",
+        "search_keywords": [
+            "motorcycle",
+            "sportbike",
+            "naked bike",
+            "KTM",
+            "Duke",
+            "black motorcycle",
+            "parked",
+            "urban",
+            "street",
+            "vehicle",
+            "transportation",
+            "modern",
+            "sleek",
+            "brick",
+            "outdoor"
+        ]
+    }
+}
